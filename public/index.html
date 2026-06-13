@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Raio-X da Cota Parlamentar</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="hero">
+      <nav class="topline" aria-label="Fonte e atualização">
+        <span>CEAP • Câmara dos Deputados</span>
+        <div>
+          <span id="updatedAt">Atualizando...</span>
+          <a id="sourceLink" href="#" target="_blank" rel="noreferrer">Dados oficiais</a>
+        </div>
+      </nav>
+
+      <section class="hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Monitor diário</p>
+          <h1>Cota Parlamentar</h1>
+          <div class="hero-number">
+            <span>Total no ano</span>
+            <strong id="kpiTotal">-</strong>
+          </div>
+        </div>
+
+        <div class="lead-board" aria-label="Destaques">
+          <article>
+            <span>Maior gasto individual</span>
+            <strong id="leadDeputy">-</strong>
+            <small id="leadDeputyMeta">-</small>
+          </article>
+          <article>
+            <span>Categoria líder</span>
+            <strong id="leadCategory">-</strong>
+            <small id="leadCategoryMeta">-</small>
+          </article>
+          <article>
+            <span>Fornecedor líder</span>
+            <strong id="leadSupplier">-</strong>
+            <small id="leadSupplierMeta">-</small>
+          </article>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <section class="metrics" aria-label="Resumo">
+        <article>
+          <span>Documentos</span>
+          <strong id="kpiDocs">-</strong>
+        </article>
+        <article>
+          <span>Parlamentares</span>
+          <strong id="kpiDeputies">-</strong>
+        </article>
+        <article>
+          <span>Fornecedores</span>
+          <strong id="kpiSuppliers">-</strong>
+        </article>
+        <article>
+          <span>Valor médio por doc.</span>
+          <strong id="kpiAvgDoc">-</strong>
+        </article>
+        <article>
+          <span>Sinais de atenção</span>
+          <strong id="kpiAlerts">-</strong>
+        </article>
+      </section>
+
+      <section class="filters" aria-label="Filtros">
+        <label>
+          Busca
+          <input id="searchInput" type="search" placeholder="Deputado, fornecedor, CNPJ, partido..." />
+        </label>
+        <label>
+          Partido
+          <select id="partyFilter"></select>
+        </label>
+        <label>
+          UF
+          <select id="ufFilter"></select>
+        </label>
+        <label>
+          Categoria
+          <select id="categoryFilter"></select>
+        </label>
+        <button id="clearFilters" type="button">Limpar</button>
+      </section>
+
+      <section class="grid two">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Quem Mais Gastou</h2>
+            <span>ano até agora</span>
+          </div>
+          <div id="deputyRanking" class="bar-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Tipos de Despesa</h2>
+            <span>participação no total</span>
+          </div>
+          <div id="categoryRanking" class="bar-list"></div>
+        </article>
+      </section>
+
+      <section class="panel priority-panel">
+        <div class="panel-head">
+          <h2>Sinais de Atenção</h2>
+          <span>não são acusações; são pontos para checagem</span>
+        </div>
+        <div id="alertChips" class="chips"></div>
+        <div id="alertsTable" class="table-wrap"></div>
+      </section>
+
+      <section class="grid two">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Fornecedores</h2>
+            <span>valor, documentos e alcance</span>
+          </div>
+          <div id="supplierRanking" class="compact-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Evolução Mensal</h2>
+            <span>total por mês</span>
+          </div>
+          <canvas id="monthlyChart" width="900" height="360" aria-label="Gráfico mensal"></canvas>
+        </article>
+      </section>
+
+      <section class="grid two">
+        <article class="panel">
+          <div class="panel-head">
+            <h2>Partidos</h2>
+            <span>ranking agregado</span>
+          </div>
+          <div id="partyRanking" class="bar-list"></div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-head">
+            <h2>UFs</h2>
+            <span>ranking agregado</span>
+          </div>
+          <div id="ufRanking" class="bar-list"></div>
+        </article>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Maiores Documentos</h2>
+          <span>com links para notas/PDFs</span>
+        </div>
+        <div id="documentsTable" class="table-wrap"></div>
+      </section>
+
+      <section class="notice">
+        <strong>Nota metodológica:</strong>
+        <span id="methodologyNote"></span>
+      </section>
+    </main>
+
+    <footer>
+      Dados oficiais da Câmara dos Deputados. Dashboard gerada automaticamente por GitHub Actions.
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,5492 @@
+{
+  "meta": {
+    "year": 2026,
+    "generated_at": "2026-04-24T07:04:26+00:00",
+    "source_url": "https://www.camara.leg.br/cotas/Ano-2026.csv.zip",
+    "source_bytes": 1625032,
+    "methodology_note": "A Câmara permite apresentação de comprovantes em até 90 dias; dados do ano corrente podem mudar retroativamente."
+  },
+  "summary": {
+    "total": 52860483.17,
+    "documents": 38691,
+    "deputies": 551,
+    "suppliers": 10755,
+    "categories": 18,
+    "first_date": "2025-12-01",
+    "last_date": "2026-04-22",
+    "avg_per_deputy": 95935.54,
+    "avg_per_doc": 1366.22,
+    "alerts": 124
+  },
+  "rankings": {
+    "deputies": [
+      {
+        "deputy": "Andreia Siqueira",
+        "party": "PSB",
+        "uf": "PA",
+        "total": 203500.25,
+        "count": 15,
+        "avg_doc": 13566.68,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "WEVERSON SARMENTO DA PAIXÃO",
+        "publicity_share": 83.54
+      },
+      {
+        "deputy": "Albuquerque",
+        "party": "REPUBLICANOS",
+        "uf": "RR",
+        "total": 203426.16,
+        "count": 40,
+        "avg_doc": 5085.65,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+        "publicity_share": 60.14
+      },
+      {
+        "deputy": "Eunício Oliveira",
+        "party": "MDB",
+        "uf": "CE",
+        "total": 202926.0,
+        "count": 9,
+        "avg_doc": 22547.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+        "publicity_share": 84.76
+      },
+      {
+        "deputy": "Franciane Bayer",
+        "party": "REPUBLICANOS",
+        "uf": "RS",
+        "total": 189583.05,
+        "count": 181,
+        "avg_doc": 1047.42,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "FERNANDO DA SILVA CALVETE",
+        "publicity_share": 39.39
+      },
+      {
+        "deputy": "Silas Câmara",
+        "party": "REPUBLICANOS",
+        "uf": "AM",
+        "total": 185019.55,
+        "count": 5,
+        "avg_doc": 37003.91,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "main_supplier": "AMAZONAVES TAXI AEREO LTDA",
+        "publicity_share": 24.32
+      },
+      {
+        "deputy": "Antônio Doido",
+        "party": "MDB",
+        "uf": "PA",
+        "total": 184497.67,
+        "count": 34,
+        "avg_doc": 5426.4,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "main_supplier": "HAR - SERVIÇOS AUXILIARES AO TRANSPORTE AEREO LTDA",
+        "publicity_share": 38.21
+      },
+      {
+        "deputy": "Roberta Roma",
+        "party": "PL",
+        "uf": "BA",
+        "total": 183460.98,
+        "count": 118,
+        "avg_doc": 1554.75,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "Estratégia Comunicação Ltda.",
+        "publicity_share": 66.32
+      },
+      {
+        "deputy": "Átila Lins",
+        "party": "PSD",
+        "uf": "AM",
+        "total": 178664.83,
+        "count": 18,
+        "avg_doc": 9925.82,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "main_supplier": "CTA - CLEITON TAXI AEREO LTDA",
+        "publicity_share": 13.43
+      },
+      {
+        "deputy": "Carlos Veras",
+        "party": "PT",
+        "uf": "PE",
+        "total": 178609.97,
+        "count": 262,
+        "avg_doc": 681.72,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "AMB CONSTRUÇÕES E SERVIÇOS LTDA",
+        "publicity_share": 28.39
+      },
+      {
+        "deputy": "Wilson Santiago",
+        "party": "REPUBLICANOS",
+        "uf": "PB",
+        "total": 177467.95,
+        "count": 97,
+        "avg_doc": 1829.57,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "AGENCIAR - AGENCIA DE PUBLICAÇÃO E CAPACITAÇÃO",
+        "publicity_share": 65.93
+      },
+      {
+        "deputy": "Zé Adriano",
+        "party": "PP",
+        "uf": "AC",
+        "total": 176031.89,
+        "count": 40,
+        "avg_doc": 4400.8,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "H. INDÚSTRIA LTDA",
+        "publicity_share": 56.1
+      },
+      {
+        "deputy": "Marcelo Crivella",
+        "party": "REPUBLICANOS",
+        "uf": "RJ",
+        "total": 175624.06,
+        "count": 109,
+        "avg_doc": 1611.23,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "S7 Ltda",
+        "publicity_share": 81.71
+      },
+      {
+        "deputy": "Eli Borges",
+        "party": "REPUBLICANOS",
+        "uf": "TO",
+        "total": 169267.71,
+        "count": 154,
+        "avg_doc": 1099.14,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "Meta Comunicação e Marketing Ltda",
+        "publicity_share": 41.78
+      },
+      {
+        "deputy": "Geraldo Resende",
+        "party": "PSDB",
+        "uf": "MS",
+        "total": 166346.48,
+        "count": 59,
+        "avg_doc": 2819.43,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "K&A COMUNICAÇÃO E EVENTOS LTDA",
+        "publicity_share": 55.31
+      },
+      {
+        "deputy": "Robinson Faria",
+        "party": "PP",
+        "uf": "RN",
+        "total": 165521.5,
+        "count": 49,
+        "avg_doc": 3377.99,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "RR COMUNICAÇAO E MARKETING LTDA",
+        "publicity_share": 63.44
+      },
+      {
+        "deputy": "Diego Garcia",
+        "party": "REPUBLICANOS",
+        "uf": "PR",
+        "total": 163090.69,
+        "count": 229,
+        "avg_doc": 712.19,
+        "main_category": "PASSAGEM AÉREA - REEMBOLSO",
+        "main_supplier": "Latam Linhas Aéreas S.A",
+        "publicity_share": 10.79
+      },
+      {
+        "deputy": "Merlong Solano",
+        "party": "PT",
+        "uf": "PI",
+        "total": 161555.11,
+        "count": 158,
+        "avg_doc": 1022.5,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "AUTO LESTE LTDA",
+        "publicity_share": 40.48
+      },
+      {
+        "deputy": "Gabriel Mota",
+        "party": "UNIÃO",
+        "uf": "RR",
+        "total": 161000.0,
+        "count": 9,
+        "avg_doc": 17888.89,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "main_supplier": "CK INFO DESIGN E MIDIA SOCIAIS",
+        "publicity_share": 42.55
+      },
+      {
+        "deputy": "Domingos Neto",
+        "party": "PSD",
+        "uf": "CE",
+        "total": 160422.57,
+        "count": 19,
+        "avg_doc": 8443.29,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "FRAME COMUNICACAO DIGITAL LTDA",
+        "publicity_share": 72.14
+      },
+      {
+        "deputy": "Newton Cardoso Jr",
+        "party": "MDB",
+        "uf": "MG",
+        "total": 158951.81,
+        "count": 78,
+        "avg_doc": 2037.84,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "Triunfo Assessoria LTDA",
+        "publicity_share": 74.26
+      },
+      {
+        "deputy": "Marx Beltrão",
+        "party": "PP",
+        "uf": "AL",
+        "total": 157152.95,
+        "count": 32,
+        "avg_doc": 4911.03,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "FRAME COMUNICACAO DIGITAL LTDA",
+        "publicity_share": 66.24
+      },
+      {
+        "deputy": "Flávio Nogueira",
+        "party": "PT",
+        "uf": "PI",
+        "total": 156482.82,
+        "count": 71,
+        "avg_doc": 2203.98,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "BLITZ PRODUÇOES DE EVENTOS LTDA",
+        "publicity_share": 34.51
+      },
+      {
+        "deputy": "Murilo Galdino",
+        "party": "REPUBLICANOS",
+        "uf": "PB",
+        "total": 155007.45,
+        "count": 47,
+        "avg_doc": 3298.03,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "LDA SILVA AMARO ME",
+        "publicity_share": 66.0
+      },
+      {
+        "deputy": "Márcio Jerry",
+        "party": "PCdoB",
+        "uf": "MA",
+        "total": 154642.91,
+        "count": 74,
+        "avg_doc": 2089.77,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "Agencia Ânima LTDA",
+        "publicity_share": 53.93
+      },
+      {
+        "deputy": "Laura Carneiro",
+        "party": "PSD",
+        "uf": "RJ",
+        "total": 154243.87,
+        "count": 143,
+        "avg_doc": 1078.63,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "SERV RIO TERCEIRIZAÇÃO E SERVIÇOS",
+        "publicity_share": 45.67
+      },
+      {
+        "deputy": "Misael Varella",
+        "party": "PSD",
+        "uf": "MG",
+        "total": 153307.87,
+        "count": 31,
+        "avg_doc": 4945.42,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "A4 GRAFICA E EDITORA LTDA",
+        "publicity_share": 66.95
+      },
+      {
+        "deputy": "Luisa Canziani",
+        "party": "PSD",
+        "uf": "PR",
+        "total": 152781.75,
+        "count": 65,
+        "avg_doc": 2350.49,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "ALCANCE MIDIA PROGRAMATICA LTDA",
+        "publicity_share": 59.99
+      },
+      {
+        "deputy": "Giacobo",
+        "party": "PSD",
+        "uf": "PR",
+        "total": 152647.68,
+        "count": 10,
+        "avg_doc": 15264.77,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CALGAN EDITORA GRAFICA LTDA",
+        "publicity_share": 72.18
+      },
+      {
+        "deputy": "Alexandre Guimarães",
+        "party": "MDB",
+        "uf": "TO",
+        "total": 152586.88,
+        "count": 127,
+        "avg_doc": 1201.47,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "WAYS FILMS E MARKETING",
+        "publicity_share": 74.81
+      },
+      {
+        "deputy": "Welter",
+        "party": "PT",
+        "uf": "PR",
+        "total": 151612.56,
+        "count": 215,
+        "avg_doc": 705.17,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "Zocca & Silva Ltda Me",
+        "publicity_share": 58.63
+      },
+      {
+        "deputy": "Bibo Nunes",
+        "party": "PL",
+        "uf": "RS",
+        "total": 151255.39,
+        "count": 221,
+        "avg_doc": 684.41,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "AUTO LOCADORA LINCK E MELLO LTDA",
+        "publicity_share": 27.76
+      },
+      {
+        "deputy": "Zé Silva",
+        "party": "UNIÃO",
+        "uf": "MG",
+        "total": 150621.86,
+        "count": 111,
+        "avg_doc": 1356.95,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "BENDITA AGENCIA DE MARKENTING DIGITAL E EVENTOS LTDA",
+        "publicity_share": 52.82
+      },
+      {
+        "deputy": "Romero Rodrigues",
+        "party": "PODE",
+        "uf": "PB",
+        "total": 150583.62,
+        "count": 28,
+        "avg_doc": 5377.99,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "MAIS PROPAGANDA LTDA.",
+        "publicity_share": 57.54
+      },
+      {
+        "deputy": "Maurício Carvalho",
+        "party": "UNIÃO",
+        "uf": "RO",
+        "total": 149481.85,
+        "count": 78,
+        "avg_doc": 1916.43,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CASAQUATRO AGENCIA DE PUBLICIDADE LTDA",
+        "publicity_share": 57.16
+      },
+      {
+        "deputy": "Delegado Bruno Lima",
+        "party": "PODE",
+        "uf": "SP",
+        "total": 149156.16,
+        "count": 46,
+        "avg_doc": 3242.53,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "VIMPE TRANSPORTES RODOVIÁRIOS LTDA",
+        "publicity_share": 36.54
+      },
+      {
+        "deputy": "Gisela Simona",
+        "party": "UNIÃO",
+        "uf": "MT",
+        "total": 149056.51,
+        "count": 111,
+        "avg_doc": 1342.85,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "GIRASSOL COMUNICAÇÃO E ESTRATÉGIA LTDA",
+        "publicity_share": 65.6
+      },
+      {
+        "deputy": "João Maia",
+        "party": "PP",
+        "uf": "RN",
+        "total": 148707.34,
+        "count": 81,
+        "avg_doc": 1835.89,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "SANTOS & FERNANDES LTDA",
+        "publicity_share": 58.1
+      },
+      {
+        "deputy": "Silvia Cristina",
+        "party": "PP",
+        "uf": "RO",
+        "total": 148497.37,
+        "count": 118,
+        "avg_doc": 1258.45,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "AGENCIA PREMIUM SERVIÇOS DIGITAL LTDA",
+        "publicity_share": 83.6
+      },
+      {
+        "deputy": "André Abdon",
+        "party": "PP",
+        "uf": "AP",
+        "total": 147881.54,
+        "count": 70,
+        "avg_doc": 2112.59,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "K.D DA SILVA GOES",
+        "publicity_share": 60.86
+      },
+      {
+        "deputy": "Delegada Adriana Accorsi",
+        "party": "PT",
+        "uf": "GO",
+        "total": 147679.17,
+        "count": 48,
+        "avg_doc": 3076.65,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "GRAFICA E EDITORA COMUNICACAO VISUAL EIRELI",
+        "publicity_share": 70.36
+      },
+      {
+        "deputy": "Ruy Carneiro",
+        "party": "PODE",
+        "uf": "PB",
+        "total": 147156.04,
+        "count": 72,
+        "avg_doc": 2043.83,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "NSF TRANSPORTES ME LTDA.",
+        "publicity_share": 62.03
+      },
+      {
+        "deputy": "Coronel Ulysses",
+        "party": "UNIÃO",
+        "uf": "AC",
+        "total": 146536.72,
+        "count": 30,
+        "avg_doc": 4884.56,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "B.C.SOUZA ALMEIDA LTDA",
+        "publicity_share": 36.85
+      },
+      {
+        "deputy": "Lula da Fonte",
+        "party": "PP",
+        "uf": "PE",
+        "total": 146457.39,
+        "count": 133,
+        "avg_doc": 1101.18,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "main_supplier": "HPE AUTOMOTORES DO BRASIL LTDA",
+        "publicity_share": 33.94
+      },
+      {
+        "deputy": "Carol Dartora",
+        "party": "PT",
+        "uf": "PR",
+        "total": 146094.19,
+        "count": 193,
+        "avg_doc": 756.96,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "main_supplier": "LC Rent A Car Ltda - ME",
+        "publicity_share": 26.39
+      },
+      {
+        "deputy": "Pedro Westphalen",
+        "party": "PP",
+        "uf": "RS",
+        "total": 145802.99,
+        "count": 216,
+        "avg_doc": 675.01,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "LUIS AUGUSTO DE SA BRITTO SOARES",
+        "publicity_share": 30.45
+      },
+      {
+        "deputy": "Delegado Marcelo Freitas",
+        "party": "UNIÃO",
+        "uf": "MG",
+        "total": 143913.82,
+        "count": 112,
+        "avg_doc": 1284.94,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "HPE LOCADORA DE VEÍCULOS LTDA.",
+        "publicity_share": 40.51
+      },
+      {
+        "deputy": "Antonio Andrade",
+        "party": "REPUBLICANOS",
+        "uf": "TO",
+        "total": 143640.54,
+        "count": 72,
+        "avg_doc": 1995.01,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "ALFREDO TAVARES DE AGUIAR",
+        "publicity_share": 52.49
+      },
+      {
+        "deputy": "Joseildo Ramos",
+        "party": "PT",
+        "uf": "BA",
+        "total": 143349.51,
+        "count": 114,
+        "avg_doc": 1257.45,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "NATIVA SERVICOS EIRELI - ME",
+        "publicity_share": 48.06
+      },
+      {
+        "deputy": "Clarissa Tércio",
+        "party": "PP",
+        "uf": "PE",
+        "total": 143269.36,
+        "count": 61,
+        "avg_doc": 2348.68,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "DIRCEU DIAS DE FRANÇA LINS",
+        "publicity_share": 50.18
+      },
+      {
+        "deputy": "Pr. Marco Feliciano",
+        "party": "PL",
+        "uf": "SP",
+        "total": 142015.7,
+        "count": 14,
+        "avg_doc": 10143.98,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "ROBERTO FIGUEIRA MARINHO-ME",
+        "publicity_share": 71.65
+      },
+      {
+        "deputy": "Dr. Victor Linhalis",
+        "party": "PODE",
+        "uf": "ES",
+        "total": 141840.86,
+        "count": 34,
+        "avg_doc": 4171.79,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "GALWAN CONSTRUTORA INCORPORADORA LTDA",
+        "publicity_share": 62.38
+      },
+      {
+        "deputy": "Luiz Carlos Hauly",
+        "party": "PODE",
+        "uf": "PR",
+        "total": 141564.17,
+        "count": 73,
+        "avg_doc": 1939.24,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "SVS COMUNICAÇÃO E MAARKETING DIGITAL LTDA",
+        "publicity_share": 81.09
+      },
+      {
+        "deputy": "Carla Dickson",
+        "party": "UNIÃO",
+        "uf": "RN",
+        "total": 141562.89,
+        "count": 84,
+        "avg_doc": 1685.27,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "GEORGE MATHEUS DA SILVA PERES",
+        "publicity_share": 68.42
+      },
+      {
+        "deputy": "Gabriel Nunes",
+        "party": "PSD",
+        "uf": "BA",
+        "total": 140939.9,
+        "count": 126,
+        "avg_doc": 1118.57,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "HPE AUTOMOTORES DO BRASIL LTDA",
+        "publicity_share": 44.13
+      },
+      {
+        "deputy": "Evair Vieira de Melo",
+        "party": "PP",
+        "uf": "ES",
+        "total": 140933.01,
+        "count": 91,
+        "avg_doc": 1548.71,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CANDELA ESTRATEGIA E COMUNICAÇÃO LTDA",
+        "publicity_share": 59.21
+      },
+      {
+        "deputy": "Alceu Moreira",
+        "party": "MDB",
+        "uf": "RS",
+        "total": 140286.55,
+        "count": 278,
+        "avg_doc": 504.63,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "JOÃO JOELSON LIPERT DA SILVA",
+        "publicity_share": 34.44
+      },
+      {
+        "deputy": "Camila Jara",
+        "party": "PT",
+        "uf": "MS",
+        "total": 139978.35,
+        "count": 101,
+        "avg_doc": 1385.92,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "EVERSON VIANA TAVARES STUDIO FOTOGRAFICO",
+        "publicity_share": 60.67
+      },
+      {
+        "deputy": "Bacelar",
+        "party": "PV",
+        "uf": "BA",
+        "total": 139812.2,
+        "count": 40,
+        "avg_doc": 3495.31,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "main_supplier": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+        "publicity_share": 36.48
+      },
+      {
+        "deputy": "Mário Heringer",
+        "party": "PDT",
+        "uf": "MG",
+        "total": 138927.23,
+        "count": 17,
+        "avg_doc": 8172.19,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "JAQUELINE LEMOS DA ROCHA BRANT",
+        "publicity_share": 93.51
+      },
+      {
+        "deputy": "Padre João",
+        "party": "PT",
+        "uf": "MG",
+        "total": 138762.27,
+        "count": 139,
+        "avg_doc": 998.29,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "EGL - EDITORES GRAFICOS LTDA",
+        "publicity_share": 31.76
+      },
+      {
+        "deputy": "Luiz Philippe de Orleans e Bragança",
+        "party": "PL",
+        "uf": "SP",
+        "total": 138290.0,
+        "count": 119,
+        "avg_doc": 1162.1,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "LDS TRANSPORTES E SERVIÇOS LTDA",
+        "publicity_share": 68.48
+      },
+      {
+        "deputy": "Josenildo",
+        "party": "PDT",
+        "uf": "AP",
+        "total": 138209.35,
+        "count": 65,
+        "avg_doc": 2126.3,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "publicity_share": 65.54
+      },
+      {
+        "deputy": "Pastor Gil",
+        "party": "PL",
+        "uf": "MA",
+        "total": 138135.45,
+        "count": 43,
+        "avg_doc": 3212.45,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "NUI COMUNICAÇÃO E MARKETING LTDA",
+        "publicity_share": 77.1
+      },
+      {
+        "deputy": "Fausto Pinato",
+        "party": "PP",
+        "uf": "SP",
+        "total": 138114.0,
+        "count": 54,
+        "avg_doc": 2557.67,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "GUSTAVO GOMES DE SOUSA DIAS",
+        "publicity_share": 41.65
+      },
+      {
+        "deputy": "Pastor Henrique Vieira",
+        "party": "PSOL",
+        "uf": "RJ",
+        "total": 137699.74,
+        "count": 73,
+        "avg_doc": 1886.3,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "FLEX MARKETING DIRETO LTDA",
+        "publicity_share": 55.19
+      },
+      {
+        "deputy": "Geovania de Sá",
+        "party": "PSDB",
+        "uf": "SC",
+        "total": 137579.19,
+        "count": 180,
+        "avg_doc": 764.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "MEG PRINT GRAFICA E EDITORA",
+        "publicity_share": 36.95
+      },
+      {
+        "deputy": "Delegada Katarina",
+        "party": "PSD",
+        "uf": "SE",
+        "total": 137368.63,
+        "count": 98,
+        "avg_doc": 1401.72,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CONCEITO COMUNICAÇÃO INTEGRADA LTDA",
+        "publicity_share": 54.67
+      },
+      {
+        "deputy": "Daniela Reinehr",
+        "party": "PL",
+        "uf": "SC",
+        "total": 137118.08,
+        "count": 171,
+        "avg_doc": 801.86,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "PONTA LOCAÇÃO DE VEÍCULOS LTDA",
+        "publicity_share": 40.04
+      },
+      {
+        "deputy": "Zezinho Barbary",
+        "party": "PP",
+        "uf": "AC",
+        "total": 137061.22,
+        "count": 47,
+        "avg_doc": 2916.2,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CLAUDIO GOMES DA SILVA ME",
+        "publicity_share": 70.7
+      },
+      {
+        "deputy": "Bohn Gass",
+        "party": "PT",
+        "uf": "RS",
+        "total": 136534.26,
+        "count": 205,
+        "avg_doc": 666.02,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "VERDEPERTO EDITORA LTDA",
+        "publicity_share": 38.58
+      },
+      {
+        "deputy": "Lenir de Assis",
+        "party": "PT",
+        "uf": "PR",
+        "total": 136107.62,
+        "count": 168,
+        "avg_doc": 810.16,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "AS LAB - LABORATORIO CRIATIVO LTDA",
+        "publicity_share": 38.53
+      },
+      {
+        "deputy": "Maria do Rosário",
+        "party": "PT",
+        "uf": "RS",
+        "total": 135951.53,
+        "count": 207,
+        "avg_doc": 656.77,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "main_supplier": "PENSE LOCADORA DE VEÍCULOS LTDA",
+        "publicity_share": 16.28
+      },
+      {
+        "deputy": "Alberto Fraga",
+        "party": "PL",
+        "uf": "DF",
+        "total": 135575.5,
+        "count": 9,
+        "avg_doc": 15063.94,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "QUALIGRAFF IMPRESSOS E SERVIÇOS GRÁFICOS LTDA",
+        "publicity_share": 92.2
+      },
+      {
+        "deputy": "Ricardo Salles",
+        "party": "NOVO",
+        "uf": "SP",
+        "total": 135571.04,
+        "count": 82,
+        "avg_doc": 1653.31,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "QUADRA BRASIL SERVIÇOS EM COMUNICAÇÃO LTDA",
+        "publicity_share": 50.53
+      },
+      {
+        "deputy": "Jeferson Rodrigues",
+        "party": "PSDB",
+        "uf": "GO",
+        "total": 135534.53,
+        "count": 14,
+        "avg_doc": 9681.04,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "Conex Midia Comunicação Eireli",
+        "publicity_share": 66.03
+      },
+      {
+        "deputy": "Enfermeira Ana Paula",
+        "party": "PODE",
+        "uf": "CE",
+        "total": 135526.91,
+        "count": 45,
+        "avg_doc": 3011.71,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "NF COMUNICAÇÃO DIGITAL LTDA",
+        "publicity_share": 58.46
+      },
+      {
+        "deputy": "Prof. Reginaldo Veras",
+        "party": "PV",
+        "uf": "DF",
+        "total": 135526.31,
+        "count": 66,
+        "avg_doc": 2053.43,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "UMBIT CRIATIVO LTDA",
+        "publicity_share": 65.59
+      },
+      {
+        "deputy": "Covatti Filho",
+        "party": "PP",
+        "uf": "RS",
+        "total": 135470.09,
+        "count": 67,
+        "avg_doc": 2021.94,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "GABRIELA SUAREZ ZABALVEYTIA",
+        "publicity_share": 41.28
+      },
+      {
+        "deputy": "Denise Pessôa",
+        "party": "PT",
+        "uf": "RS",
+        "total": 135101.23,
+        "count": 290,
+        "avg_doc": 465.87,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "SPIXS TECNOLOGIA LTDA",
+        "publicity_share": 33.38
+      },
+      {
+        "deputy": "Reinhold Stephanes",
+        "party": "PL",
+        "uf": "PR",
+        "total": 134821.39,
+        "count": 56,
+        "avg_doc": 2407.52,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "main_supplier": "CENTRAL PARANAENSE DE COMUNICAÇÃO LTDA-ME",
+        "publicity_share": 68.98
+      }
+    ],
+    "categories": [
+      {
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "total": 25361569.71,
+        "count": 4471
+      },
+      {
+        "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "total": 10028320.64,
+        "count": 1546
+      },
+      {
+        "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "total": 8058126.26,
+        "count": 4526
+      },
+      {
+        "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "total": 5754060.92,
+        "count": 18320
+      },
+      {
+        "category": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+        "total": 942573.72,
+        "count": 2081
+      },
+      {
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "total": 852933.0,
+        "count": 35
+      },
+      {
+        "category": "TELEFONIA",
+        "total": 482679.74,
+        "count": 1229
+      },
+      {
+        "category": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "total": 336283.54,
+        "count": 2138
+      },
+      {
+        "category": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+        "total": 286860.89,
+        "count": 106
+      },
+      {
+        "category": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "total": 255837.04,
+        "count": 3759
+      },
+      {
+        "category": "PASSAGEM AÉREA - REEMBOLSO",
+        "total": 214448.91,
+        "count": 71
+      },
+      {
+        "category": "PASSAGEM AÉREA - RPA",
+        "total": 88282.62,
+        "count": 70
+      },
+      {
+        "category": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+        "total": 71700.0,
+        "count": 13
+      },
+      {
+        "category": "SERVIÇOS POSTAIS",
+        "total": 56206.39,
+        "count": 82
+      },
+      {
+        "category": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "total": 40953.48,
+        "count": 178
+      },
+      {
+        "category": "ASSINATURA DE PUBLICAÇÕES",
+        "total": 22117.31,
+        "count": 63
+      },
+      {
+        "category": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS.",
+        "total": 7000.0,
+        "count": 1
+      },
+      {
+        "category": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+        "total": 529.0,
+        "count": 2
+      }
+    ],
+    "suppliers": [
+      {
+        "supplier": "PANTANAL VEÍCULOS LTDA",
+        "cnpjcpf": "073.193.230/0019-1",
+        "total": 728624.34,
+        "count": 144,
+        "deputies": 49,
+        "parties": 13,
+        "avg_doc": 5059.89,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "Facebook Serviços Online do Brasil Ltda.",
+        "cnpjcpf": "133.470.160/0011-7",
+        "total": 633220.35,
+        "count": 160,
+        "deputies": 94,
+        "parties": 17,
+        "avg_doc": 3957.63,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "NOVACAR LOCADORA DE VEICULOS LTDA",
+        "cnpjcpf": "193.747.910/0014-8",
+        "total": 391799.8,
+        "count": 62,
+        "deputies": 18,
+        "parties": 10,
+        "avg_doc": 6319.35,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "HPE AUTOMOTORES DO BRASIL LTDA",
+        "cnpjcpf": "460.540.090/0018-6",
+        "total": 324971.6,
+        "count": 31,
+        "deputies": 10,
+        "parties": 6,
+        "avg_doc": 10482.95,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "SUPREMA MOBILIDADE LTDA",
+        "cnpjcpf": "248.943.970/0017-0",
+        "total": 280040.0,
+        "count": 47,
+        "deputies": 19,
+        "parties": 9,
+        "avg_doc": 5958.3,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
+        "cnpjcpf": "378.947.490/0013-0",
+        "total": 216300.0,
+        "count": 35,
+        "deputies": 15,
+        "parties": 9,
+        "avg_doc": 6180.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "CTA - CLEITON TAXI AEREO LTDA",
+        "cnpjcpf": "049.844.000/0013-0",
+        "total": 205650.0,
+        "count": 8,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 25706.25,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES"
+      },
+      {
+        "supplier": "FRAME COMUNICACAO DIGITAL LTDA",
+        "cnpjcpf": "420.067.100/0017-9",
+        "total": 168531.63,
+        "count": 9,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 18725.74,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "SERV RIO TERCEIRIZAÇÃO E SERVIÇOS",
+        "cnpjcpf": "104.798.610/0015-8",
+        "total": 165300.0,
+        "count": 21,
+        "deputies": 5,
+        "parties": 4,
+        "avg_doc": 7871.43,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "Pontual Loc Car ltda",
+        "cnpjcpf": "123.056.220/0010-7",
+        "total": 163189.0,
+        "count": 29,
+        "deputies": 6,
+        "parties": 3,
+        "avg_doc": 5627.21,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "A DE LIMA CARDOSO",
+        "cnpjcpf": "320.833.600/0019-0",
+        "total": 162786.8,
+        "count": 11,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 14798.8,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "PONTA LOCAÇÃO DE VEÍCULOS LTDA",
+        "cnpjcpf": "427.618.720/0011-2",
+        "total": 162600.0,
+        "count": 20,
+        "deputies": 7,
+        "parties": 4,
+        "avg_doc": 8130.0,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "EVAG COMUNICAÇÃO E TECNOLOGIA LTDA",
+        "cnpjcpf": "157.056.970/0017-3",
+        "total": 160646.4,
+        "count": 23,
+        "deputies": 5,
+        "parties": 4,
+        "avg_doc": 6984.63,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "VIA LOCADORA DE AUTOMOVEIS LTDA",
+        "cnpjcpf": "454.149.640/0011-4",
+        "total": 160410.84,
+        "count": 26,
+        "deputies": 8,
+        "parties": 8,
+        "avg_doc": 6169.65,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "DALETH VEICULOS LTDA EPP",
+        "cnpjcpf": "045.159.630/0018-9",
+        "total": 151650.0,
+        "count": 29,
+        "deputies": 12,
+        "parties": 6,
+        "avg_doc": 5229.31,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "Nacional Rent a Car Locação de Veiculos LTDA",
+        "cnpjcpf": "490.008.150/0016-0",
+        "total": 150200.0,
+        "count": 18,
+        "deputies": 6,
+        "parties": 3,
+        "avg_doc": 8344.44,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "MULTIPLICAR E SERVIÇOS LTDA EPP",
+        "cnpjcpf": "042.419.590/0017-0",
+        "total": 147150.0,
+        "count": 9,
+        "deputies": 3,
+        "parties": 3,
+        "avg_doc": 16350.0,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+        "cnpjcpf": "297.816.420/0015-7",
+        "total": 145178.0,
+        "count": 4,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 36294.5,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "AMAZONAVES TAXI AEREO LTDA",
+        "cnpjcpf": "030.907.560/0016-7",
+        "total": 143758.0,
+        "count": 3,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 47919.33,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES"
+      },
+      {
+        "supplier": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
+        "cnpjcpf": "022.149.320/0016-2",
+        "total": 134700.0,
+        "count": 20,
+        "deputies": 6,
+        "parties": 3,
+        "avg_doc": 6735.0,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "AMAZON STUDIO E PRODUÇOES LTDA",
+        "cnpjcpf": "125.139.110/0010-0",
+        "total": 134000.0,
+        "count": 6,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 22333.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "FLEX MARKETING DIRETO LTDA",
+        "cnpjcpf": "144.377.880/0010-2",
+        "total": 126075.0,
+        "count": 19,
+        "deputies": 7,
+        "parties": 3,
+        "avg_doc": 6635.53,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "ESTRELA LOGISTICA LTDA",
+        "cnpjcpf": "043.095.640/0016-1",
+        "total": 125443.34,
+        "count": 23,
+        "deputies": 4,
+        "parties": 4,
+        "avg_doc": 5454.06,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+        "cnpjcpf": "235.581.270/0012-6",
+        "total": 122000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 40666.67,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "S7 Ltda",
+        "cnpjcpf": "629.087.740/0017-2",
+        "total": 119000.0,
+        "count": 4,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 29750.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "CK INFO DESIGN E MIDIA SOCIAIS",
+        "cnpjcpf": "368.998.240/0019-2",
+        "total": 119000.0,
+        "count": 6,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 19833.33,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      },
+      {
+        "supplier": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
+        "cnpjcpf": "121.328.540/0010-0",
+        "total": 117160.7,
+        "count": 193,
+        "deputies": 161,
+        "parties": 21,
+        "avg_doc": 607.05,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      },
+      {
+        "supplier": "JH FILMES E MIDIA DIGITAL LTDA",
+        "cnpjcpf": "598.759.640/0012-6",
+        "total": 116000.0,
+        "count": 6,
+        "deputies": 2,
+        "parties": 1,
+        "avg_doc": 19333.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "TAXI AEREO VALE DO MADEIRA",
+        "cnpjcpf": "224.670.560/0019-3",
+        "total": 115000.0,
+        "count": 3,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 38333.33,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES"
+      },
+      {
+        "supplier": "N N Y MARKETING DIRETO E SOLUÇÕES INTELIGENTES LTDA",
+        "cnpjcpf": "333.544.390/0017-1",
+        "total": 113000.0,
+        "count": 5,
+        "deputies": 2,
+        "parties": 1,
+        "avg_doc": 22600.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "Latam Linhas Aéreas S.A",
+        "cnpjcpf": "020.128.620/0016-0",
+        "total": 112131.8,
+        "count": 38,
+        "deputies": 17,
+        "parties": 8,
+        "avg_doc": 2950.84,
+        "main_category": "PASSAGEM AÉREA - REEMBOLSO"
+      },
+      {
+        "supplier": "AUTO LESTE LTDA",
+        "cnpjcpf": "091.165.410/0015-4",
+        "total": 111000.0,
+        "count": 11,
+        "deputies": 3,
+        "parties": 3,
+        "avg_doc": 10090.91,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "AMORETTO CAFES EXPRESSO LTDA",
+        "cnpjcpf": "085.324.290/0013-1",
+        "total": 110530.39,
+        "count": 134,
+        "deputies": 52,
+        "parties": 12,
+        "avg_doc": 824.85,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      },
+      {
+        "supplier": "RCS SERVIÇOS DE ALIMENTAÇÃO LTDA",
+        "cnpjcpf": "512.702.430/0018-0",
+        "total": 106674.76,
+        "count": 54,
+        "deputies": 5,
+        "parties": 1,
+        "avg_doc": 1975.46,
+        "main_category": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR"
+      },
+      {
+        "supplier": "IMS SERVIÇOS EIRELI",
+        "cnpjcpf": "157.177.940/0018-6",
+        "total": 106000.0,
+        "count": 2,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 53000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "PRESTAÇÃO DE SERVIÇOS DE DESIGN SGA LTDA",
+        "cnpjcpf": "498.952.960/0014-5",
+        "total": 103898.0,
+        "count": 9,
+        "deputies": 2,
+        "parties": 1,
+        "avg_doc": 11544.22,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
+        "cnpjcpf": "083.456.310/0015-4",
+        "total": 102500.0,
+        "count": 12,
+        "deputies": 4,
+        "parties": 2,
+        "avg_doc": 8541.67,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+        "cnpjcpf": "437.833.500/0018-4",
+        "total": 100200.0,
+        "count": 9,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 11133.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "ORBE PRODUTORA & SERVIÇOS LTDA",
+        "cnpjcpf": "494.946.550/0015-2",
+        "total": 100000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 33333.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "WEVERSON SARMENTO DA PAIXÃO",
+        "cnpjcpf": "313.382.490/0013-5",
+        "total": 100000.0,
+        "count": 4,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 25000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "MAIS PROPAGANDA LTDA.",
+        "cnpjcpf": "027.737.230/0015-9",
+        "total": 98350.0,
+        "count": 4,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 24587.5,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "COMUNIK COMUNICAÇÃO E SERVIÇOS",
+        "cnpjcpf": "519.183.350/0012-4",
+        "total": 96800.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 32266.67,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "P8 Relações Institucionais Ltda",
+        "cnpjcpf": "493.402.950/0013-4",
+        "total": 96000.0,
+        "count": 6,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 16000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "Bipe Publicidade LTDA",
+        "cnpjcpf": "458.919.540/0017-0",
+        "total": 95000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 31666.67,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "ATLANTICA ESTRATÉGIA E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "238.608.300/0019-4",
+        "total": 93430.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 31143.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "2HC CRIATIVIDADE E PRODUÇÕES LTDA",
+        "cnpjcpf": "499.254.410/0019-3",
+        "total": 93000.0,
+        "count": 6,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 15500.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "NF COMUNICAÇÃO DIGITAL LTDA",
+        "cnpjcpf": "535.208.420/0013-0",
+        "total": 92300.0,
+        "count": 8,
+        "deputies": 5,
+        "parties": 4,
+        "avg_doc": 11537.5,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "BROAD BRASIL LTDA",
+        "cnpjcpf": "489.496.410/0011-3",
+        "total": 91838.0,
+        "count": 101,
+        "deputies": 35,
+        "parties": 11,
+        "avg_doc": 909.29,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      },
+      {
+        "supplier": "HEISS TAXI AEREO LTDA - EPP",
+        "cnpjcpf": "069.641.440/0014-4",
+        "total": 91000.0,
+        "count": 4,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 22750.0,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES"
+      },
+      {
+        "supplier": "HAR - SERVIÇOS AUXILIARES AO TRANSPORTE AEREO LTDA",
+        "cnpjcpf": "268.321.360/0015-1",
+        "total": 90000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 30000.0,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES"
+      },
+      {
+        "supplier": "AUTOSUL LOCADORA DE VEÍCULOS",
+        "cnpjcpf": "232.851.340/0010-0",
+        "total": 88563.7,
+        "count": 13,
+        "deputies": 4,
+        "parties": 4,
+        "avg_doc": 6812.59,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "SVS COMUNICAÇÃO E MAARKETING DIGITAL LTDA",
+        "cnpjcpf": "608.603.880/0012-2",
+        "total": 86997.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 28999.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "306.449.220/0010-0",
+        "total": 84000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 28000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "TELEMAXIMO SISTEMAS CONSULTORIA E SERVIÇOS LTDA - ME",
+        "cnpjcpf": "018.728.180/0016-7",
+        "total": 83976.9,
+        "count": 6,
+        "deputies": 2,
+        "parties": 1,
+        "avg_doc": 13996.15,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      },
+      {
+        "supplier": "Telefônica Brasil S.A. VIVO",
+        "cnpjcpf": "025.581.570/0016-2",
+        "total": 83461.84,
+        "count": 160,
+        "deputies": 95,
+        "parties": 18,
+        "avg_doc": 521.64,
+        "main_category": "TELEFONIA"
+      },
+      {
+        "supplier": "NUI COMUNICAÇÃO E MARKETING LTDA",
+        "cnpjcpf": "404.117.780/0010-8",
+        "total": 82500.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 27500.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
+        "cnpjcpf": "040.882.080/0016-5",
+        "total": 81836.31,
+        "count": 163,
+        "deputies": 71,
+        "parties": 17,
+        "avg_doc": 502.06,
+        "main_category": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO"
+      },
+      {
+        "supplier": "Estratégia Comunicação Ltda.",
+        "cnpjcpf": "491.819.610/0013-9",
+        "total": 81107.8,
+        "count": 7,
+        "deputies": 3,
+        "parties": 1,
+        "avg_doc": 11586.83,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "TRIPE COMUNICAÇÃO E SERVIÇOS DE CONSULTORIA EM PUBLICIDADE LTDA",
+        "cnpjcpf": "461.116.140/0014-1",
+        "total": 81000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 27000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "N P IMOVEIS LTDA",
+        "cnpjcpf": "891.768.870/0018-7",
+        "total": 80962.18,
+        "count": 24,
+        "deputies": 6,
+        "parties": 5,
+        "avg_doc": 3373.42,
+        "main_category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR"
+      },
+      {
+        "supplier": "CLAUDIO GOMES DA SILVA ME",
+        "cnpjcpf": "203.570.700/0010-9",
+        "total": 80500.0,
+        "count": 8,
+        "deputies": 3,
+        "parties": 2,
+        "avg_doc": 10062.5,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "WORKING ASSOCIAÇÃO DE INTEGRAÇÃO PROFISSIONAL",
+        "cnpjcpf": "088.656.150/0019-2",
+        "total": 80260.8,
+        "count": 17,
+        "deputies": 6,
+        "parties": 6,
+        "avg_doc": 4721.22,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "MIND COMUNICACAO LTDA",
+        "cnpjcpf": "406.919.480/0015-5",
+        "total": 80000.0,
+        "count": 5,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 16000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "J L C dos Santos/ Felix Marketing e Comunicação Visual",
+        "cnpjcpf": "535.737.560/0019-6",
+        "total": 80000.0,
+        "count": 2,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 40000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "CRISTIANO MACHADO SANTOS",
+        "cnpjcpf": "634.522.800/0019-9",
+        "total": 79500.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 26500.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "NOVA OPCAO LOCADORA DE VEICULOS LTDA",
+        "cnpjcpf": "300.831.230/0010-2",
+        "total": 79500.0,
+        "count": 9,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 8833.33,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "J D L SEM CORTES LTDA",
+        "cnpjcpf": "401.216.930/0019-5",
+        "total": 79450.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 26483.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "NSF TRANSPORTES ME LTDA.",
+        "cnpjcpf": "195.330.150/0014-3",
+        "total": 79000.0,
+        "count": 13,
+        "deputies": 3,
+        "parties": 3,
+        "avg_doc": 6076.92,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "QUINTELA & SA SERVIÇOS LTDA",
+        "cnpjcpf": "312.778.480/0019-6",
+        "total": 78200.0,
+        "count": 3,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 26066.67,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "IMMAGINE COMUNICAÇÃO E MARKETING LTDA",
+        "cnpjcpf": "232.210.750/0010-6",
+        "total": 78000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 26000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "Conex Midia Comunicação Eireli",
+        "cnpjcpf": "106.841.530/0015-9",
+        "total": 77500.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 25833.33,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "HANBELLSEG SERVIÇOS E LOCAÇOES LTDA",
+        "cnpjcpf": "613.000.110/0018-1",
+        "total": 77300.0,
+        "count": 6,
+        "deputies": 2,
+        "parties": 2,
+        "avg_doc": 12883.33,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "SHEKINAH LOCACAO DE VEICULOS EIRELI",
+        "cnpjcpf": "343.007.710/0011-6",
+        "total": 76700.0,
+        "count": 12,
+        "deputies": 5,
+        "parties": 5,
+        "avg_doc": 6391.67,
+        "main_category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES"
+      },
+      {
+        "supplier": "TELEFÔNICA BRASIL S/A - VIVO",
+        "cnpjcpf": "025.581.570/0016-2",
+        "total": 76137.06,
+        "count": 136,
+        "deputies": 92,
+        "parties": 19,
+        "avg_doc": 559.83,
+        "main_category": "TELEFONIA"
+      },
+      {
+        "supplier": "CALGAN EDITORA GRAFICA LTDA",
+        "cnpjcpf": "042.615.480/0014-6",
+        "total": 75778.7,
+        "count": 2,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 37889.35,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "CONCEITO COMUNICAÇÃO INTEGRADA LTDA",
+        "cnpjcpf": "004.044.190/0010-9",
+        "total": 75095.3,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 25031.77,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "JD COMUNICACAO, MARKETING E MIDIA LTDA 2000004245",
+        "cnpjcpf": "360.066.470/0017-8",
+        "total": 75000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 25000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "Mateus da Silva Lima",
+        "cnpjcpf": "332.879.770/0019-0",
+        "total": 75000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 25000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "CENTRAL PARANAENSE DE COMUNICAÇÃO LTDA-ME",
+        "cnpjcpf": "282.464.130/0017-0",
+        "total": 75000.0,
+        "count": 3,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 25000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      },
+      {
+        "supplier": "QUALIGRAFF IMPRESSOS E SERVIÇOS GRÁFICOS LTDA",
+        "cnpjcpf": "314.229.680/0013-0",
+        "total": 74000.0,
+        "count": 2,
+        "deputies": 1,
+        "parties": 1,
+        "avg_doc": 37000.0,
+        "main_category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR."
+      }
+    ],
+    "parties": [
+      {
+        "party": "PL",
+        "total": 8706146.2,
+        "count": 6907
+      },
+      {
+        "party": "PT",
+        "total": 7336237.7,
+        "count": 7284
+      },
+      {
+        "party": "PP",
+        "total": 5558546.29,
+        "count": 3671
+      },
+      {
+        "party": "PSD",
+        "total": 5290640.55,
+        "count": 3467
+      },
+      {
+        "party": "UNIÃO",
+        "total": 4941741.03,
+        "count": 3218
+      },
+      {
+        "party": "REPUBLICANOS",
+        "total": 4417549.59,
+        "count": 2861
+      },
+      {
+        "party": "MDB",
+        "total": 3530297.48,
+        "count": 2201
+      },
+      {
+        "party": "PODE",
+        "total": 2836207.01,
+        "count": 1533
+      },
+      {
+        "party": "PSB",
+        "total": 1596145.01,
+        "count": 1248
+      },
+      {
+        "party": "PSDB",
+        "total": 1527382.16,
+        "count": 1178
+      },
+      {
+        "party": "PDT",
+        "total": 1474307.53,
+        "count": 904
+      },
+      {
+        "party": "PSOL",
+        "total": 1117776.1,
+        "count": 1089
+      },
+      {
+        "party": "PCdoB",
+        "total": 1073980.11,
+        "count": 573
+      },
+      {
+        "party": "PV",
+        "total": 599085.27,
+        "count": 492
+      },
+      {
+        "party": "AVANTE",
+        "total": 572325.73,
+        "count": 550
+      },
+      {
+        "party": "SOLIDARIEDADE",
+        "total": 544373.74,
+        "count": 272
+      },
+      {
+        "party": "REDE",
+        "total": 520070.56,
+        "count": 183
+      },
+      {
+        "party": "PRD",
+        "total": 351550.42,
+        "count": 340
+      },
+      {
+        "party": "NOVO",
+        "total": 349267.47,
+        "count": 328
+      },
+      {
+        "party": "Sem informação",
+        "total": 295189.1,
+        "count": 224
+      },
+      {
+        "party": "CIDADANIA",
+        "total": 209007.7,
+        "count": 159
+      },
+      {
+        "party": "MISSÃO",
+        "total": 12656.42,
+        "count": 9
+      }
+    ],
+    "ufs": [
+      {
+        "uf": "SP",
+        "total": 6596980.1,
+        "count": 4379
+      },
+      {
+        "uf": "MG",
+        "total": 5085083.49,
+        "count": 5297
+      },
+      {
+        "uf": "RJ",
+        "total": 4128138.01,
+        "count": 3095
+      },
+      {
+        "uf": "BA",
+        "total": 3901468.81,
+        "count": 2712
+      },
+      {
+        "uf": "RS",
+        "total": 3407478.71,
+        "count": 5242
+      },
+      {
+        "uf": "PR",
+        "total": 3302648.07,
+        "count": 3048
+      },
+      {
+        "uf": "PE",
+        "total": 2703251.15,
+        "count": 2035
+      },
+      {
+        "uf": "CE",
+        "total": 2425295.33,
+        "count": 989
+      },
+      {
+        "uf": "GO",
+        "total": 1734265.22,
+        "count": 798
+      },
+      {
+        "uf": "MA",
+        "total": 1605140.2,
+        "count": 601
+      },
+      {
+        "uf": "PA",
+        "total": 1529866.2,
+        "count": 414
+      },
+      {
+        "uf": "SC",
+        "total": 1528283.54,
+        "count": 1946
+      },
+      {
+        "uf": "PB",
+        "total": 1475302.65,
+        "count": 653
+      },
+      {
+        "uf": "AC",
+        "total": 1097355.24,
+        "count": 472
+      },
+      {
+        "uf": "ES",
+        "total": 1089917.57,
+        "count": 705
+      },
+      {
+        "uf": "PI",
+        "total": 1057000.03,
+        "count": 472
+      },
+      {
+        "uf": "RR",
+        "total": 1049337.46,
+        "count": 315
+      },
+      {
+        "uf": "RO",
+        "total": 1003565.68,
+        "count": 777
+      },
+      {
+        "uf": "MS",
+        "total": 1000498.49,
+        "count": 578
+      },
+      {
+        "uf": "RN",
+        "total": 982286.08,
+        "count": 684
+      },
+      {
+        "uf": "AP",
+        "total": 940712.99,
+        "count": 265
+      },
+      {
+        "uf": "TO",
+        "total": 940220.33,
+        "count": 774
+      },
+      {
+        "uf": "MT",
+        "total": 837075.78,
+        "count": 701
+      },
+      {
+        "uf": "AM",
+        "total": 824069.66,
+        "count": 205
+      },
+      {
+        "uf": "SE",
+        "total": 819709.78,
+        "count": 398
+      },
+      {
+        "uf": "DF",
+        "total": 757961.17,
+        "count": 594
+      },
+      {
+        "uf": "AL",
+        "total": 742382.33,
+        "count": 318
+      },
+      {
+        "uf": "NA",
+        "total": 295189.1,
+        "count": 224
+      }
+    ],
+    "documents": [
+      {
+        "deputy": "Silas Câmara",
+        "party": "REPUBLICANOS",
+        "uf": "AM",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "AMAZONAVES TAXI AEREO LTDA",
+        "cnpjcpf": "030.907.560/0016-7",
+        "value": 104258.0,
+        "date": "2026-02-19",
+        "month": 2,
+        "document": "430",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1286/2026/8065824.pdf"
+      },
+      {
+        "deputy": "Adail Filho",
+        "party": "MDB",
+        "uf": "AM",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "CTA - CLEITON TAXI AEREO LTDA",
+        "cnpjcpf": "049.844.000/0013-0",
+        "value": 67750.0,
+        "date": "2026-03-20",
+        "month": 3,
+        "document": "5941",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3536/2026/8070101.pdf"
+      },
+      {
+        "deputy": "Pastor Eurico",
+        "party": "PSDB",
+        "uf": "PE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "L.G BEZERRA CAVALCANTI",
+        "cnpjcpf": "108.473.570/0016-3",
+        "value": 66600.0,
+        "date": "2026-03-05",
+        "month": 3,
+        "document": "00000956",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2264/2026/8061434.pdf"
+      },
+      {
+        "deputy": "Sidney Leite",
+        "party": "PSD",
+        "uf": "AM",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "TAXI AEREO VALE DO MADEIRA",
+        "cnpjcpf": "224.670.560/0019-3",
+        "value": 55000.0,
+        "date": "2026-03-30",
+        "month": 3,
+        "document": "1515",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8074970.pdf"
+      },
+      {
+        "deputy": "Fábio Macedo",
+        "party": "PODE",
+        "uf": "MA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "IMS SERVIÇOS EIRELI",
+        "cnpjcpf": "157.177.940/0018-6",
+        "value": 53000.0,
+        "date": "2026-03-12",
+        "month": 1,
+        "document": "00000084",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3581/2026/8067686.pdf"
+      },
+      {
+        "deputy": "Fábio Macedo",
+        "party": "PODE",
+        "uf": "MA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "IMS SERVIÇOS EIRELI",
+        "cnpjcpf": "157.177.940/0018-6",
+        "value": 53000.0,
+        "date": "2026-03-12",
+        "month": 2,
+        "document": "00000085",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3581/2026/8067693.pdf"
+      },
+      {
+        "deputy": "João Carlos Bacelar",
+        "party": "PL",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "LUIS EDUARDO DE OLIVEIRA CONCEIÇÃO",
+        "cnpjcpf": "239.844.690/0010-8",
+        "value": 50025.0,
+        "date": "2026-03-02",
+        "month": 2,
+        "document": "00000135",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1856/2026/8058431.pdf"
+      },
+      {
+        "deputy": "Eunício Oliveira",
+        "party": "MDB",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CARNAUBA PUBLICIDADE",
+        "cnpjcpf": "235.581.270/0012-6",
+        "value": 50000.0,
+        "date": "2026-04-01",
+        "month": 4,
+        "document": "315",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8075468.pdf"
+      },
+      {
+        "deputy": "Eunício Oliveira",
+        "party": "MDB",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+        "cnpjcpf": "235.581.270/0012-6",
+        "value": 47000.0,
+        "date": "2026-03-02",
+        "month": 3,
+        "document": "314",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8058571.pdf"
+      },
+      {
+        "deputy": "Dimas Gadelha",
+        "party": "PT",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "JMR GRAFICA E EDITORA LTDA",
+        "cnpjcpf": "370.398.760/0015-1",
+        "value": 45340.0,
+        "date": "2026-03-10",
+        "month": 3,
+        "document": "01",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3521/2026/8064091.pdf"
+      },
+      {
+        "deputy": "Silas Câmara",
+        "party": "REPUBLICANOS",
+        "uf": "AM",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "VG APOIO ADMINISTRATIVO LTDA",
+        "cnpjcpf": "411.905.200/0019-1",
+        "value": 45000.0,
+        "date": "2026-01-14",
+        "month": 1,
+        "document": "4",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1286/2026/8039072.pdf"
+      },
+      {
+        "deputy": "Cristiano Furlan",
+        "party": "REDE",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "J L C dos Santos/ Felix Marketing e Comunicação Visual",
+        "cnpjcpf": "535.737.560/0019-6",
+        "value": 45000.0,
+        "date": "2026-02-20",
+        "month": 2,
+        "document": "36",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3805/2026/8053461.pdf"
+      },
+      {
+        "deputy": "Antônia Lúcia",
+        "party": "MDB",
+        "uf": "AC",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+        "cnpjcpf": "297.816.420/0015-7",
+        "value": 44999.2,
+        "date": "2026-03-03",
+        "month": 3,
+        "document": "126",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8060097"
+      },
+      {
+        "deputy": "Airton Faleiro",
+        "party": "PT",
+        "uf": "PA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "HI NEO COMUNICACAO E MARKETING LTDA.",
+        "cnpjcpf": "289.706.000/0010-0",
+        "value": 44500.0,
+        "date": "2026-04-09",
+        "month": 3,
+        "document": "00000255",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2026/8080175.pdf"
+      },
+      {
+        "deputy": "Giacobo",
+        "party": "PSD",
+        "uf": "PR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CALGAN EDITORA GRAFICA LTDA",
+        "cnpjcpf": "042.615.480/0014-6",
+        "value": 42305.9,
+        "date": "2026-04-07",
+        "month": 4,
+        "document": "9699",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078348"
+      },
+      {
+        "deputy": "Alberto Fraga",
+        "party": "PL",
+        "uf": "DF",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "QUALIGRAFF IMPRESSOS E SERVIÇOS GRÁFICOS LTDA",
+        "cnpjcpf": "314.229.680/0013-0",
+        "value": 42000.0,
+        "date": "2026-03-10",
+        "month": 2,
+        "document": "304",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1472/2026/8063594.pdf"
+      },
+      {
+        "deputy": "Antônia Lúcia",
+        "party": "MDB",
+        "uf": "AC",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "JERSON OLIVEIRA DA SILVA",
+        "cnpjcpf": "411.733.390/0017-7",
+        "value": 42000.0,
+        "date": "2026-01-07",
+        "month": 1,
+        "document": "205",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2258/2026/8037539.pdf"
+      },
+      {
+        "deputy": "Enfermeira Ana Paula",
+        "party": "PODE",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "NF COMUNICAÇÃO DIGITAL LTDA",
+        "cnpjcpf": "535.208.420/0013-0",
+        "value": 41500.0,
+        "date": "2026-03-18",
+        "month": 3,
+        "document": "98",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3740/2026/8068351.pdf"
+      },
+      {
+        "deputy": "Glaustin da Fokus",
+        "party": "PODE",
+        "uf": "GO",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "COMUNIK COMUNICAÇÃO E SERVIÇOS",
+        "cnpjcpf": "519.183.350/0012-4",
+        "value": 40800.0,
+        "date": "2026-03-10",
+        "month": 3,
+        "document": "0000000080",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3238/2026/8063258.pdf"
+      },
+      {
+        "deputy": "Eunício Oliveira",
+        "party": "MDB",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+        "cnpjcpf": "235.581.270/0012-6",
+        "value": 40000.0,
+        "date": "2026-02-03",
+        "month": 2,
+        "document": "312",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8045832.pdf"
+      },
+      {
+        "deputy": "Sidney Leite",
+        "party": "PSD",
+        "uf": "AM",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "TAXI AEREO VALE DO MADEIRA",
+        "cnpjcpf": "224.670.560/0019-3",
+        "value": 40000.0,
+        "date": "2026-02-05",
+        "month": 1,
+        "document": "1447",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3293/2026/8047999.pdf"
+      },
+      {
+        "deputy": "Antônia Lúcia",
+        "party": "MDB",
+        "uf": "AC",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+        "cnpjcpf": "297.816.420/0015-7",
+        "value": 39999.3,
+        "date": "2026-02-09",
+        "month": 2,
+        "document": "119",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8050222"
+      },
+      {
+        "deputy": "Heloísa Helena",
+        "party": "REDE",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "EVAG COMUNICAÇÃO E TECNOLOGIA LTDA",
+        "cnpjcpf": "157.056.970/0017-3",
+        "value": 39559.7,
+        "date": "2026-03-05",
+        "month": 2,
+        "document": "00001776",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3804/2026/8060861.pdf"
+      },
+      {
+        "deputy": "Ely Santos",
+        "party": "REPUBLICANOS",
+        "uf": "SP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "MB ARTES GRAFICAS",
+        "cnpjcpf": "017.895.630/0017-3",
+        "value": 39000.0,
+        "date": "2026-03-12",
+        "month": 3,
+        "document": "0000015429",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3489/2026/8065613.pdf"
+      },
+      {
+        "deputy": "Alberto Fraga",
+        "party": "PL",
+        "uf": "DF",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "GRAFICA NICODEMOS LTDA-EPP",
+        "cnpjcpf": "118.508.610/0018-5",
+        "value": 36000.0,
+        "date": "2026-02-05",
+        "month": 1,
+        "document": "602",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1472/2026/8047814.pdf"
+      },
+      {
+        "deputy": "Professora Marcivania",
+        "party": "PCdoB",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "QUINTELA & SA SERVIÇOS LTDA",
+        "cnpjcpf": "312.778.480/0019-6",
+        "value": 36000.0,
+        "date": "2026-02-03",
+        "month": 1,
+        "document": "91",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2339/2026/8048344.pdf"
+      },
+      {
+        "deputy": "Professora Marcivania",
+        "party": "PCdoB",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "QUINTELA & SA SERVIÇOS LTDA",
+        "cnpjcpf": "312.778.480/0019-6",
+        "value": 36000.0,
+        "date": "2026-03-02",
+        "month": 2,
+        "document": "93",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2339/2026/8060178.pdf"
+      },
+      {
+        "deputy": "Antônio Doido",
+        "party": "MDB",
+        "uf": "PA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CAMPUS COMUNICAÇÃO E MARKETING LTDA",
+        "cnpjcpf": "241.833.870/0012-7",
+        "value": 35500.0,
+        "date": "2026-02-05",
+        "month": 1,
+        "document": "157",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2026/8066462.pdf"
+      },
+      {
+        "deputy": "Valmir Assunção",
+        "party": "PT",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "XCOLORUM GRAFICA & COMUNICAÇÃO VISUAL LTDA",
+        "cnpjcpf": "261.308.880/0017-0",
+        "value": 35400.0,
+        "date": "2026-01-10",
+        "month": 1,
+        "document": "00001583",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2265/2026/8038401.pdf"
+      },
+      {
+        "deputy": "Delegada Katarina",
+        "party": "PSD",
+        "uf": "SE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CONCEITO COMUNICAÇÃO INTEGRADA LTDA",
+        "cnpjcpf": "004.044.190/0010-9",
+        "value": 35386.8,
+        "date": "2026-03-18",
+        "month": 3,
+        "document": "202600000000791",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3543/2026/8068272.pdf"
+      },
+      {
+        "deputy": "Wellington Roberto",
+        "party": "PSD",
+        "uf": "PB",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
+        "cnpjcpf": "378.947.490/0013-0",
+        "value": 35000.0,
+        "date": "2026-03-10",
+        "month": 3,
+        "document": "843",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1703/2026/8068489.pdf"
+      },
+      {
+        "deputy": "Eunício Oliveira",
+        "party": "MDB",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+        "cnpjcpf": "235.581.270/0012-6",
+        "value": 35000.0,
+        "date": "2026-01-05",
+        "month": 1,
+        "document": "311",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8036837.pdf"
+      },
+      {
+        "deputy": "Acácio Favacho",
+        "party": "MDB",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "MEGA GLOBAL DIGITAL LTDA",
+        "cnpjcpf": "533.642.260/0013-8",
+        "value": 35000.0,
+        "date": "2026-03-28",
+        "month": 2,
+        "document": "3",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2026/8076613.pdf"
+      },
+      {
+        "deputy": "Dorinaldo Malafaia",
+        "party": "PDT",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "ORBE PRODUTORA & SERVIÇOS LTDA",
+        "cnpjcpf": "494.946.550/0015-2",
+        "value": 35000.0,
+        "date": "2026-02-23",
+        "month": 2,
+        "document": "112",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3576/2026/8053722.pdf"
+      },
+      {
+        "deputy": "Dorinaldo Malafaia",
+        "party": "PDT",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "ORBE PRODUTORA & SERVIÇOS LTDA",
+        "cnpjcpf": "494.946.550/0015-2",
+        "value": 35000.0,
+        "date": "2026-03-25",
+        "month": 3,
+        "document": "116",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3576/2026/8071959.pdf"
+      },
+      {
+        "deputy": "Antônio Doido",
+        "party": "MDB",
+        "uf": "PA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CAMPUS COMUNICAÇÃO E MARKETING LTDA",
+        "cnpjcpf": "241.833.870/0012-7",
+        "value": 35000.0,
+        "date": "2026-03-26",
+        "month": 2,
+        "document": "158",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2026/8079724.pdf"
+      },
+      {
+        "deputy": "Antônio Doido",
+        "party": "MDB",
+        "uf": "PA",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "HAR - SERVIÇOS AUXILIARES AO TRANSPORTE AEREO LTDA",
+        "cnpjcpf": "268.321.360/0015-1",
+        "value": 35000.0,
+        "date": "2026-03-16",
+        "month": 3,
+        "document": "3248",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2026/8066898.pdf"
+      },
+      {
+        "deputy": "Capitão Alden",
+        "party": "PL",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Bipe Publicidade LTDA",
+        "cnpjcpf": "458.919.540/0017-0",
+        "value": 35000.0,
+        "date": "2026-03-29",
+        "month": 3,
+        "document": "00000175",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3678/2026/8074150.pdf"
+      },
+      {
+        "deputy": "Cristiano Furlan",
+        "party": "REDE",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "J L C dos Santos/ Felix Marketing e Comunicação Visual",
+        "cnpjcpf": "535.737.560/0019-6",
+        "value": 35000.0,
+        "date": "2026-01-21",
+        "month": 1,
+        "document": "34",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3805/2026/8040898.pdf"
+      },
+      {
+        "deputy": "Giacobo",
+        "party": "PSD",
+        "uf": "PR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "GALZON EDITORA GRAFICA LTDA",
+        "cnpjcpf": "074.362.650/0018-6",
+        "value": 34402.6,
+        "date": "2026-02-03",
+        "month": 2,
+        "document": "12638",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8045285"
+      },
+      {
+        "deputy": "Erika Kokay",
+        "party": "PT",
+        "uf": "DF",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "ATLANTICA ESTRATÉGIA E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "238.608.300/0019-4",
+        "value": 33830.0,
+        "date": "2026-03-27",
+        "month": 3,
+        "document": "202600000000096",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2403/2026/8073271.pdf"
+      },
+      {
+        "deputy": "Marcos Pollon",
+        "party": "PL",
+        "uf": "MS",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "GIOVANADOSSANTOSBURNIER",
+        "cnpjcpf": "640.652.320/0010-0",
+        "value": 33500.0,
+        "date": "2026-03-16",
+        "month": 3,
+        "document": "49",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3539/2026/8066565.pdf"
+      },
+      {
+        "deputy": "Giacobo",
+        "party": "PSD",
+        "uf": "PR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CALGAN EDITORA GRAFICA LTDA",
+        "cnpjcpf": "042.615.480/0014-6",
+        "value": 33472.8,
+        "date": "2026-03-04",
+        "month": 3,
+        "document": "9669",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8060119"
+      },
+      {
+        "deputy": "Dandara",
+        "party": "PT",
+        "uf": "MG",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Leonel Alves Lopas 21204209634",
+        "cnpjcpf": "401.520.810/0016-0",
+        "value": 32500.0,
+        "date": "2026-03-13",
+        "month": 3,
+        "document": "13",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3607/2026/8070331.pdf"
+      },
+      {
+        "deputy": "Alexandre Guimarães",
+        "party": "MDB",
+        "uf": "TO",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "WAYS FILMS E MARKETING",
+        "cnpjcpf": "415.129.490/0015-8",
+        "value": 32250.0,
+        "date": "2026-04-14",
+        "month": 3,
+        "document": "202600000000013",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3584/2026/8082663.pdf"
+      },
+      {
+        "deputy": "Alice Portugal",
+        "party": "PCdoB",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+        "cnpjcpf": "297.816.420/0015-7",
+        "value": 32004.5,
+        "date": "2026-02-05",
+        "month": 2,
+        "document": "110",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8048408"
+      },
+      {
+        "deputy": "Alberto Fraga",
+        "party": "PL",
+        "uf": "DF",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "QUALIGRAFF IMPRESSOS E SERVIÇOS GRÁFICOS LTDA",
+        "cnpjcpf": "314.229.680/0013-0",
+        "value": 32000.0,
+        "date": "2026-04-15",
+        "month": 3,
+        "document": "306",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1472/2026/8082843.pdf"
+      },
+      {
+        "deputy": "Júnior Mano",
+        "party": "PSB",
+        "uf": "CE",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "TERRAL TAXI AEREO LTDA EPP",
+        "cnpjcpf": "012.748.470/0012-7",
+        "value": 32000.0,
+        "date": "2026-03-18",
+        "month": 2,
+        "document": "1364",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3198/2026/8068444.pdf"
+      },
+      {
+        "deputy": "Luiz Carlos Hauly",
+        "party": "PODE",
+        "uf": "PR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "SVS COMUNICAÇÃO E MAARKETING DIGITAL LTDA",
+        "cnpjcpf": "608.603.880/0012-2",
+        "value": 31999.0,
+        "date": "2026-04-10",
+        "month": 3,
+        "document": "5",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/824/2026/8080778.pdf"
+      },
+      {
+        "deputy": "Magda Mofatto",
+        "party": "PL",
+        "uf": "GO",
+        "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "supplier": "Adm. Assis",
+        "cnpjcpf": "250.032.450/0010-1",
+        "value": 31799.4,
+        "date": "2026-01-17",
+        "month": 1,
+        "document": "45631",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2437/2026/8055906.pdf"
+      },
+      {
+        "deputy": "Bruno Ganem",
+        "party": "PODE",
+        "uf": "SP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Facebook Serviços Online do Brasil Ltda.",
+        "cnpjcpf": "133.470.160/0011-7",
+        "value": 31021.2,
+        "date": "2026-01-31",
+        "month": 1,
+        "document": "127926057",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3707/2026/8051172.pdf"
+      },
+      {
+        "deputy": "Glaustin da Fokus",
+        "party": "PODE",
+        "uf": "GO",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "COMUNIK COMUNICAÇÃO E SERVIÇOS",
+        "cnpjcpf": "519.183.350/0012-4",
+        "value": 31000.0,
+        "date": "2026-02-26",
+        "month": 2,
+        "document": "0000000077",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3238/2026/8056536.pdf"
+      },
+      {
+        "deputy": "Silvye Alves",
+        "party": "UNIÃO",
+        "uf": "GO",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Visopan Paineis Rodoviarios Ltda Visolux Paineis",
+        "cnpjcpf": "032.053.530/0011-6",
+        "value": 31000.0,
+        "date": "2026-03-16",
+        "month": 3,
+        "document": "871",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3530/2026/8067369.pdf"
+      },
+      {
+        "deputy": "Bruno Ganem",
+        "party": "PODE",
+        "uf": "SP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Facebook Serviços Online do Brasil Ltda.",
+        "cnpjcpf": "133.470.160/0011-7",
+        "value": 31000.0,
+        "date": "2026-03-03",
+        "month": 2,
+        "document": "131755992",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3707/2026/8065950.pdf"
+      },
+      {
+        "deputy": "Danilo Forte",
+        "party": "PP",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Qualigraf Editora e Grafica LTDA",
+        "cnpjcpf": "029.333.020/0014-8",
+        "value": 30500.0,
+        "date": "2026-03-04",
+        "month": 3,
+        "document": "15346",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2227/2026/8061412.pdf"
+      },
+      {
+        "deputy": "Erika Kokay",
+        "party": "PT",
+        "uf": "DF",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "ATLANTICA ESTRATÉGIA E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "238.608.300/0019-4",
+        "value": 30200.0,
+        "date": "2026-02-26",
+        "month": 2,
+        "document": "202600000000094",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2403/2026/8057237.pdf"
+      },
+      {
+        "deputy": "Renilce Nicodemos",
+        "party": "MDB",
+        "uf": "PA",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "HEISS TAXI AEREO LTDA - EPP",
+        "cnpjcpf": "069.641.440/0014-4",
+        "value": 30000.0,
+        "date": "2026-02-10",
+        "month": 1,
+        "document": "5345",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3668/2026/8050493.pdf"
+      },
+      {
+        "deputy": "Renilce Nicodemos",
+        "party": "MDB",
+        "uf": "PA",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "HEISS TAXI AEREO LTDA - EPP",
+        "cnpjcpf": "069.641.440/0014-4",
+        "value": 30000.0,
+        "date": "2026-03-30",
+        "month": 3,
+        "document": "5395",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3668/2026/8073606.pdf"
+      },
+      {
+        "deputy": "Rubens Pereira Júnior",
+        "party": "PT",
+        "uf": "MA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "STEVAM GREGORY ROCHA POLLON",
+        "cnpjcpf": "441.902.180/0012-1",
+        "value": 30000.0,
+        "date": "2026-04-14",
+        "month": 3,
+        "document": "00000044",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2902/2026/8082381.pdf"
+      },
+      {
+        "deputy": "Renata Abreu",
+        "party": "PODE",
+        "uf": "SP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "RG MARKETING E PRODUTORA LTDA",
+        "cnpjcpf": "384.244.770/0017-7",
+        "value": 30000.0,
+        "date": "2026-02-05",
+        "month": 1,
+        "document": "39",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3081/2026/8048211.pdf"
+      },
+      {
+        "deputy": "Nicoletti",
+        "party": "PL",
+        "uf": "RR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "GSE Marketing e Tecnologia Digital",
+        "cnpjcpf": "485.948.170/0016-1",
+        "value": 30000.0,
+        "date": "2026-03-24",
+        "month": 3,
+        "document": "60",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3297/2026/8071689.pdf"
+      },
+      {
+        "deputy": "Robério Monteiro",
+        "party": "PSB",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "LA SERVIÇOS, CONSULTORIA E MARKETING LTDA",
+        "cnpjcpf": "450.553.180/0010-8",
+        "value": 30000.0,
+        "date": "2026-02-24",
+        "month": 1,
+        "document": "1",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3225/2026/8054975.pdf"
+      },
+      {
+        "deputy": "Robério Monteiro",
+        "party": "PSB",
+        "uf": "CE",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "LA SERVIÇOS, CONSULTORIA E MARKETING LTDA",
+        "cnpjcpf": "450.553.180/0010-8",
+        "value": 30000.0,
+        "date": "2026-03-17",
+        "month": 2,
+        "document": "2",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3225/2026/8067044.pdf"
+      },
+      {
+        "deputy": "Olival Marques",
+        "party": "PODE",
+        "uf": "PA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "AMAZON STUDIO E PRODUÇOES LTDA",
+        "cnpjcpf": "125.139.110/0010-0",
+        "value": 30000.0,
+        "date": "2026-02-04",
+        "month": 1,
+        "document": "67",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3319/2026/8046563.pdf"
+      },
+      {
+        "deputy": "Olival Marques",
+        "party": "PODE",
+        "uf": "PA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "AMAZON STUDIO E PRODUÇOES LTDA",
+        "cnpjcpf": "125.139.110/0010-0",
+        "value": 30000.0,
+        "date": "2026-03-03",
+        "month": 2,
+        "document": "72",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3319/2026/8059296.pdf"
+      },
+      {
+        "deputy": "Olival Marques",
+        "party": "PODE",
+        "uf": "PA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "AMAZON STUDIO E PRODUÇOES LTDA",
+        "cnpjcpf": "125.139.110/0010-0",
+        "value": 30000.0,
+        "date": "2026-04-08",
+        "month": 3,
+        "document": "76",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3319/2026/8078852.pdf"
+      },
+      {
+        "deputy": "Josivaldo JP",
+        "party": "PSD",
+        "uf": "MA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": ".COM Empreendimentos Ltda",
+        "cnpjcpf": "113.655.210/0016-9",
+        "value": 30000.0,
+        "date": "2026-03-26",
+        "month": 1,
+        "document": "1",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3475/2026/8076234.pdf"
+      },
+      {
+        "deputy": "Dorinaldo Malafaia",
+        "party": "PDT",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "ORBE PRODUTORA & SERVIÇOS LTDA",
+        "cnpjcpf": "494.946.550/0015-2",
+        "value": 30000.0,
+        "date": "2026-01-06",
+        "month": 1,
+        "document": "109",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3576/2026/8037752.pdf"
+      },
+      {
+        "deputy": "Marcelo Crivella",
+        "party": "REPUBLICANOS",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "S7 Ltda",
+        "cnpjcpf": "629.087.740/0017-2",
+        "value": 30000.0,
+        "date": "2026-01-02",
+        "month": 1,
+        "document": "10",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3699/2026/8036249.pdf"
+      },
+      {
+        "deputy": "Marcelo Crivella",
+        "party": "REPUBLICANOS",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "S7 Ltda",
+        "cnpjcpf": "629.087.740/0017-2",
+        "value": 30000.0,
+        "date": "2026-03-02",
+        "month": 3,
+        "document": "17",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3699/2026/8058069.pdf"
+      },
+      {
+        "deputy": "Marcelo Crivella",
+        "party": "REPUBLICANOS",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "S7 Ltda",
+        "cnpjcpf": "629.087.740/0017-2",
+        "value": 30000.0,
+        "date": "2026-04-01",
+        "month": 4,
+        "document": "19",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3699/2026/8075452.pdf"
+      },
+      {
+        "deputy": "Mauricio do Vôlei",
+        "party": "PL",
+        "uf": "MG",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "JH FILMES E MIDIA DIGITAL LTDA",
+        "cnpjcpf": "598.759.640/0012-6",
+        "value": 30000.0,
+        "date": "2026-02-05",
+        "month": 1,
+        "document": "12",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3566/2026/8048216.pdf"
+      },
+      {
+        "deputy": "Mauricio do Vôlei",
+        "party": "PL",
+        "uf": "MG",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "JH FILMES E MIDIA DIGITAL LTDA",
+        "cnpjcpf": "598.759.640/0012-6",
+        "value": 30000.0,
+        "date": "2026-03-02",
+        "month": 2,
+        "document": "14",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3566/2026/8058705.pdf"
+      },
+      {
+        "deputy": "Mauricio do Vôlei",
+        "party": "PL",
+        "uf": "MG",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "JH FILMES E MIDIA DIGITAL LTDA",
+        "cnpjcpf": "598.759.640/0012-6",
+        "value": 30000.0,
+        "date": "2026-04-06",
+        "month": 3,
+        "document": "16",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3566/2026/8076618.pdf"
+      },
+      {
+        "deputy": "Dilvanda Faro",
+        "party": "PT",
+        "uf": "PA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "GERIZIM ENGENHARIA INCORPORADORA E SERVIÇO LTDA",
+        "cnpjcpf": "454.654.970/0015-1",
+        "value": 30000.0,
+        "date": "2026-03-16",
+        "month": 2,
+        "document": "8",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3583/2026/8061117.pdf"
+      },
+      {
+        "deputy": "Antônio Doido",
+        "party": "MDB",
+        "uf": "PA",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "HAR - SERVIÇOS AUXILIARES AO TRANSPORTE AEREO LTDA",
+        "cnpjcpf": "268.321.360/0015-1",
+        "value": 30000.0,
+        "date": "2026-04-10",
+        "month": 3,
+        "document": "3295",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2026/8081361.pdf"
+      },
+      {
+        "deputy": "Capitão Alden",
+        "party": "PL",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Bipe Publicidade LTDA",
+        "cnpjcpf": "458.919.540/0017-0",
+        "value": 30000.0,
+        "date": "2026-02-04",
+        "month": 1,
+        "document": "00000152",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3678/2026/8046498.pdf"
+      },
+      {
+        "deputy": "Capitão Alden",
+        "party": "PL",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Bipe Publicidade LTDA",
+        "cnpjcpf": "458.919.540/0017-0",
+        "value": 30000.0,
+        "date": "2026-02-26",
+        "month": 2,
+        "document": "00000158",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3678/2026/8056353.pdf"
+      },
+      {
+        "deputy": "Saulo Pedroso",
+        "party": "PSD",
+        "uf": "SP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "N N Y MARKETING DIRETO E SOLUÇÕES INTELIGENTES LTDA",
+        "cnpjcpf": "333.544.390/0017-1",
+        "value": 30000.0,
+        "date": "2026-01-26",
+        "month": 1,
+        "document": "13",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3748/2026/8042535.pdf"
+      },
+      {
+        "deputy": "Alice Portugal",
+        "party": "PCdoB",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "60741814 LARA LUCIANA FERREIRA DA SILVA ME",
+        "cnpjcpf": "607.418.140/0010-9",
+        "value": 29900.0,
+        "date": "2026-03-31",
+        "month": 3,
+        "document": "125",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8074594"
+      },
+      {
+        "deputy": "Erika Kokay",
+        "party": "PT",
+        "uf": "DF",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "ATLANTICA ESTRATÉGIA E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "238.608.300/0019-4",
+        "value": 29400.0,
+        "date": "2026-01-27",
+        "month": 1,
+        "document": "202600000000091",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2403/2026/8042651.pdf"
+      },
+      {
+        "deputy": "Max Lemos",
+        "party": "PDT",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "J D L SEM CORTES LTDA",
+        "cnpjcpf": "401.216.930/0019-5",
+        "value": 29150.0,
+        "date": "2026-03-26",
+        "month": 3,
+        "document": "58",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8072433"
+      },
+      {
+        "deputy": "Silas Câmara",
+        "party": "REPUBLICANOS",
+        "uf": "AM",
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "supplier": "AMAZONAVES TAXI AEREO LTDA",
+        "cnpjcpf": "030.907.560/0016-7",
+        "value": 29000.0,
+        "date": "2026-02-05",
+        "month": 1,
+        "document": "420",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1286/2026/8048195.pdf"
+      },
+      {
+        "deputy": "Marcelo Crivella",
+        "party": "REPUBLICANOS",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "S7 Ltda",
+        "cnpjcpf": "629.087.740/0017-2",
+        "value": 29000.0,
+        "date": "2026-02-02",
+        "month": 2,
+        "document": "15",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3699/2026/8044598.pdf"
+      },
+      {
+        "deputy": "Carla Dickson",
+        "party": "UNIÃO",
+        "uf": "RN",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "GEORGE MATHEUS DA SILVA PERES",
+        "cnpjcpf": "400.432.120/0017-0",
+        "value": 28500.0,
+        "date": "2026-03-26",
+        "month": 3,
+        "document": "83",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3468/2026/8073199.pdf"
+      },
+      {
+        "deputy": "Mário Negromonte Jr.",
+        "party": "PSB",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "MARIA AUXILIADORA DO NASCIMENTO",
+        "cnpjcpf": "420.042.780/0018-7",
+        "value": 28468.0,
+        "date": "2026-03-19",
+        "month": 3,
+        "document": "00000040",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2996/2026/8069855.pdf"
+      },
+      {
+        "deputy": "Alice Portugal",
+        "party": "PCdoB",
+        "uf": "BA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+        "cnpjcpf": "297.816.420/0015-7",
+        "value": 28175.0,
+        "date": "2026-01-09",
+        "month": 1,
+        "document": "98",
+        "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8038860"
+      },
+      {
+        "deputy": "Josenildo",
+        "party": "PDT",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "306.449.220/0010-0",
+        "value": 28000.0,
+        "date": "2026-01-31",
+        "month": 1,
+        "document": "19",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3559/2026/8048733.pdf"
+      },
+      {
+        "deputy": "Josenildo",
+        "party": "PDT",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "306.449.220/0010-0",
+        "value": 28000.0,
+        "date": "2026-03-02",
+        "month": 2,
+        "document": "24",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3559/2026/8065451.pdf"
+      },
+      {
+        "deputy": "Josenildo",
+        "party": "PDT",
+        "uf": "AP",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+        "cnpjcpf": "306.449.220/0010-0",
+        "value": 28000.0,
+        "date": "2026-04-07",
+        "month": 3,
+        "document": "31",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3559/2026/8082867.pdf"
+      },
+      {
+        "deputy": "Pastor Gil",
+        "party": "PL",
+        "uf": "MA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "NUI COMUNICAÇÃO E MARKETING LTDA",
+        "cnpjcpf": "404.117.780/0010-8",
+        "value": 27500.0,
+        "date": "2026-02-11",
+        "month": 1,
+        "document": "30",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3398/2026/8051292.pdf"
+      },
+      {
+        "deputy": "Pastor Gil",
+        "party": "PL",
+        "uf": "MA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "NUI COMUNICAÇÃO E MARKETING LTDA",
+        "cnpjcpf": "404.117.780/0010-8",
+        "value": 27500.0,
+        "date": "2026-04-15",
+        "month": 3,
+        "document": "33",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3398/2026/8083656.pdf"
+      },
+      {
+        "deputy": "Pastor Gil",
+        "party": "PL",
+        "uf": "MA",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "NUI COMUNICAÇÃO E MARKETING LTDA",
+        "cnpjcpf": "404.117.780/0010-8",
+        "value": 27500.0,
+        "date": "2026-04-15",
+        "month": 2,
+        "document": "34",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3398/2026/8083657.pdf"
+      },
+      {
+        "deputy": "Jeferson Rodrigues",
+        "party": "PSDB",
+        "uf": "GO",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "Conex Midia Comunicação Eireli",
+        "cnpjcpf": "106.841.530/0015-9",
+        "value": 27500.0,
+        "date": "2026-03-16",
+        "month": 3,
+        "document": "21",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3580/2026/8066996.pdf"
+      },
+      {
+        "deputy": "Luiz Carlos Hauly",
+        "party": "PODE",
+        "uf": "PR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "SVS COMUNICAÇÃO E MAARKETING DIGITAL LTDA",
+        "cnpjcpf": "608.603.880/0012-2",
+        "value": 27499.0,
+        "date": "2026-02-09",
+        "month": 1,
+        "document": "3",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/824/2026/8049610.pdf"
+      },
+      {
+        "deputy": "Luiz Carlos Hauly",
+        "party": "PODE",
+        "uf": "PR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "SVS COMUNICAÇÃO E MAARKETING DIGITAL LTDA",
+        "cnpjcpf": "608.603.880/0012-2",
+        "value": 27499.0,
+        "date": "2026-03-06",
+        "month": 2,
+        "document": "4",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/824/2026/8062113.pdf"
+      },
+      {
+        "deputy": "Luciano Alves",
+        "party": "PSD",
+        "uf": "PR",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "FEDERAL CREATIVE PUBLICIDADE & CONSULTORIA PUBLICA LTDA.",
+        "cnpjcpf": "614.588.880/0010-3",
+        "value": 27000.0,
+        "date": "2026-01-13",
+        "month": 1,
+        "document": "14",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3736/2026/8038876.pdf"
+      },
+      {
+        "deputy": "Otoni de Paula",
+        "party": "PSD",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "N N Y MARKETING DIRETO E SOLUÇÕES INTELIGENTES LTDA",
+        "cnpjcpf": "333.544.390/0017-1",
+        "value": 27000.0,
+        "date": "2026-01-26",
+        "month": 1,
+        "document": "11",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3246/2026/8042025.pdf"
+      },
+      {
+        "deputy": "Otoni de Paula",
+        "party": "PSD",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "N N Y MARKETING DIRETO E SOLUÇÕES INTELIGENTES LTDA",
+        "cnpjcpf": "333.544.390/0017-1",
+        "value": 27000.0,
+        "date": "2026-02-23",
+        "month": 2,
+        "document": "15",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3246/2026/8055036.pdf"
+      },
+      {
+        "deputy": "Otoni de Paula",
+        "party": "PSD",
+        "uf": "RJ",
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "supplier": "N N Y MARKETING DIRETO E SOLUÇÕES INTELIGENTES LTDA",
+        "cnpjcpf": "333.544.390/0017-1",
+        "value": 27000.0,
+        "date": "2026-03-24",
+        "month": 3,
+        "document": "21",
+        "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3246/2026/8072000.pdf"
+      }
+    ]
+  },
+  "series": {
+    "monthly": [
+      {
+        "month": 1,
+        "total": 16954944.19
+      },
+      {
+        "month": 2,
+        "total": 17661235.98
+      },
+      {
+        "month": 3,
+        "total": 16736707.8
+      },
+      {
+        "month": 4,
+        "total": 1507595.2
+      }
+    ],
+    "monthly_category": [
+      {
+        "month": 1,
+        "category": "ASSINATURA DE PUBLICAÇÕES",
+        "total": 7528.68
+      },
+      {
+        "month": 1,
+        "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "total": 1389469.37
+      },
+      {
+        "month": 1,
+        "category": "CONSULTORIAS, PESQUISAS E TRABALHOS TÉCNICOS.",
+        "total": 7000.0
+      },
+      {
+        "month": 1,
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "total": 8286994.3
+      },
+      {
+        "month": 1,
+        "category": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "total": 26947.01
+      },
+      {
+        "month": 1,
+        "category": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+        "total": 190854.1
+      },
+      {
+        "month": 1,
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "total": 279025.0
+      },
+      {
+        "month": 1,
+        "category": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+        "total": 33900.0
+      },
+      {
+        "month": 1,
+        "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "total": 3482616.97
+      },
+      {
+        "month": 1,
+        "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "total": 2813354.02
+      },
+      {
+        "month": 1,
+        "category": "PASSAGEM AÉREA - REEMBOLSO",
+        "total": 59036.78
+      },
+      {
+        "month": 1,
+        "category": "PASSAGEM AÉREA - RPA",
+        "total": 8779.19
+      },
+      {
+        "month": 1,
+        "category": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "total": 6244.82
+      },
+      {
+        "month": 1,
+        "category": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+        "total": 99566.28
+      },
+      {
+        "month": 1,
+        "category": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "total": 57949.64
+      },
+      {
+        "month": 1,
+        "category": "SERVIÇOS POSTAIS",
+        "total": 15869.59
+      },
+      {
+        "month": 1,
+        "category": "TELEFONIA",
+        "total": 189808.44
+      },
+      {
+        "month": 2,
+        "category": "AQUISIÇÃO DE TOKENS E CERTIFICADOS DIGITAIS",
+        "total": 529.0
+      },
+      {
+        "month": 2,
+        "category": "ASSINATURA DE PUBLICAÇÕES",
+        "total": 6334.34
+      },
+      {
+        "month": 2,
+        "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "total": 1707942.51
+      },
+      {
+        "month": 2,
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "total": 8475038.81
+      },
+      {
+        "month": 2,
+        "category": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "total": 128503.79
+      },
+      {
+        "month": 2,
+        "category": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+        "total": 262075.87
+      },
+      {
+        "month": 2,
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "total": 242258.0
+      },
+      {
+        "month": 2,
+        "category": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+        "total": 27900.0
+      },
+      {
+        "month": 2,
+        "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "total": 3539190.0
+      },
+      {
+        "month": 2,
+        "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "total": 2818272.44
+      },
+      {
+        "month": 2,
+        "category": "PASSAGEM AÉREA - REEMBOLSO",
+        "total": 38044.22
+      },
+      {
+        "month": 2,
+        "category": "PASSAGEM AÉREA - RPA",
+        "total": 34317.24
+      },
+      {
+        "month": 2,
+        "category": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "total": 12770.81
+      },
+      {
+        "month": 2,
+        "category": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+        "total": 99818.64
+      },
+      {
+        "month": 2,
+        "category": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "total": 90335.08
+      },
+      {
+        "month": 2,
+        "category": "SERVIÇOS POSTAIS",
+        "total": 14322.05
+      },
+      {
+        "month": 2,
+        "category": "TELEFONIA",
+        "total": 163583.18
+      },
+      {
+        "month": 3,
+        "category": "ASSINATURA DE PUBLICAÇÕES",
+        "total": 7828.29
+      },
+      {
+        "month": 3,
+        "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "total": 2044942.88
+      },
+      {
+        "month": 3,
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "total": 8105511.77
+      },
+      {
+        "month": 3,
+        "category": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "total": 145829.77
+      },
+      {
+        "month": 3,
+        "category": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+        "total": 407286.35
+      },
+      {
+        "month": 3,
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "total": 306650.0
+      },
+      {
+        "month": 3,
+        "category": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+        "total": 9900.0
+      },
+      {
+        "month": 3,
+        "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "total": 2924112.56
+      },
+      {
+        "month": 3,
+        "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "total": 2298188.6
+      },
+      {
+        "month": 3,
+        "category": "PASSAGEM AÉREA - REEMBOLSO",
+        "total": 102819.24
+      },
+      {
+        "month": 3,
+        "category": "PASSAGEM AÉREA - RPA",
+        "total": 44345.28
+      },
+      {
+        "month": 3,
+        "category": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "total": 17624.81
+      },
+      {
+        "month": 3,
+        "category": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+        "total": 86309.22
+      },
+      {
+        "month": 3,
+        "category": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "total": 94190.86
+      },
+      {
+        "month": 3,
+        "category": "SERVIÇOS POSTAIS",
+        "total": 16255.2
+      },
+      {
+        "month": 3,
+        "category": "TELEFONIA",
+        "total": 124912.97
+      },
+      {
+        "month": 4,
+        "category": "ASSINATURA DE PUBLICAÇÕES",
+        "total": 426.0
+      },
+      {
+        "month": 4,
+        "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+        "total": 611706.16
+      },
+      {
+        "month": 4,
+        "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+        "total": 494024.83
+      },
+      {
+        "month": 4,
+        "category": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+        "total": 35002.97
+      },
+      {
+        "month": 4,
+        "category": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+        "total": 82357.4
+      },
+      {
+        "month": 4,
+        "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+        "total": 25000.0
+      },
+      {
+        "month": 4,
+        "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+        "total": 82401.11
+      },
+      {
+        "month": 4,
+        "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+        "total": 128311.2
+      },
+      {
+        "month": 4,
+        "category": "PASSAGEM AÉREA - REEMBOLSO",
+        "total": 14548.67
+      },
+      {
+        "month": 4,
+        "category": "PASSAGEM AÉREA - RPA",
+        "total": 840.91
+      },
+      {
+        "month": 4,
+        "category": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
+        "total": 4313.04
+      },
+      {
+        "month": 4,
+        "category": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+        "total": 1166.75
+      },
+      {
+        "month": 4,
+        "category": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+        "total": 13361.46
+      },
+      {
+        "month": 4,
+        "category": "SERVIÇOS POSTAIS",
+        "total": 9759.55
+      },
+      {
+        "month": 4,
+        "category": "TELEFONIA",
+        "total": 4375.15
+      }
+    ],
+    "weekday": [
+      {
+        "weekday": "Seg",
+        "total": 12683356.93
+      },
+      {
+        "weekday": "Ter",
+        "total": 10508573.41
+      },
+      {
+        "weekday": "Qua",
+        "total": 9497046.34
+      },
+      {
+        "weekday": "Qui",
+        "total": 8371093.71
+      },
+      {
+        "weekday": "Sex",
+        "total": 7745287.77
+      },
+      {
+        "weekday": "Sab",
+        "total": 2319445.87
+      },
+      {
+        "weekday": "Dom",
+        "total": 1717663.75
+      }
+    ]
+  },
+  "alerts": [
+    {
+      "type": "Documento alto",
+      "severity": "alta",
+      "title": "Despesa alta em locação ou fretamento de aeronaves",
+      "deputy": "Silas Câmara",
+      "party": "REPUBLICANOS",
+      "uf": "AM",
+      "supplier": "AMAZONAVES TAXI AEREO LTDA",
+      "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "value": 104258.0,
+      "date": "2026-02-19",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1286/2026/8065824.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "alta",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Pastor Eurico",
+      "party": "PSDB",
+      "uf": "PE",
+      "supplier": "L.G BEZERRA CAVALCANTI",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 66600.0,
+      "date": "2026-03-05",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2264/2026/8061434.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "alta",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Fábio Macedo",
+      "party": "PODE",
+      "uf": "MA",
+      "supplier": "IMS SERVIÇOS EIRELI",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 53000.0,
+      "date": "2026-03-12",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3581/2026/8067686.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "alta",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Fábio Macedo",
+      "party": "PODE",
+      "uf": "MA",
+      "supplier": "IMS SERVIÇOS EIRELI",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 53000.0,
+      "date": "2026-03-12",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3581/2026/8067693.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "alta",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "João Carlos Bacelar",
+      "party": "PL",
+      "uf": "BA",
+      "supplier": "LUIS EDUARDO DE OLIVEIRA CONCEIÇÃO",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 50025.0,
+      "date": "2026-03-02",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1856/2026/8058431.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "alta",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Eunício Oliveira",
+      "party": "MDB",
+      "uf": "CE",
+      "supplier": "CARNAUBA PUBLICIDADE",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 50000.0,
+      "date": "2026-04-01",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8075468.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Eunício Oliveira",
+      "party": "MDB",
+      "uf": "CE",
+      "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 47000.0,
+      "date": "2026-03-02",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8058571.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Dimas Gadelha",
+      "party": "PT",
+      "uf": "RJ",
+      "supplier": "JMR GRAFICA E EDITORA LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 45340.0,
+      "date": "2026-03-10",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3521/2026/8064091.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Silas Câmara",
+      "party": "REPUBLICANOS",
+      "uf": "AM",
+      "supplier": "VG APOIO ADMINISTRATIVO LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 45000.0,
+      "date": "2026-01-14",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1286/2026/8039072.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Cristiano Furlan",
+      "party": "REDE",
+      "uf": "AP",
+      "supplier": "J L C dos Santos/ Felix Marketing e Comunicação Visual",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 45000.0,
+      "date": "2026-02-20",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3805/2026/8053461.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Antônia Lúcia",
+      "party": "MDB",
+      "uf": "AC",
+      "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 44999.2,
+      "date": "2026-03-03",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8060097"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Airton Faleiro",
+      "party": "PT",
+      "uf": "PA",
+      "supplier": "HI NEO COMUNICACAO E MARKETING LTDA.",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 44500.0,
+      "date": "2026-04-09",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3406/2026/8080175.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Giacobo",
+      "party": "PSD",
+      "uf": "PR",
+      "supplier": "CALGAN EDITORA GRAFICA LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 42305.9,
+      "date": "2026-04-07",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8078348"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Alberto Fraga",
+      "party": "PL",
+      "uf": "DF",
+      "supplier": "QUALIGRAFF IMPRESSOS E SERVIÇOS GRÁFICOS LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 42000.0,
+      "date": "2026-03-10",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1472/2026/8063594.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Antônia Lúcia",
+      "party": "MDB",
+      "uf": "AC",
+      "supplier": "JERSON OLIVEIRA DA SILVA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 42000.0,
+      "date": "2026-01-07",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2258/2026/8037539.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Enfermeira Ana Paula",
+      "party": "PODE",
+      "uf": "CE",
+      "supplier": "NF COMUNICAÇÃO DIGITAL LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 41500.0,
+      "date": "2026-03-18",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3740/2026/8068351.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Glaustin da Fokus",
+      "party": "PODE",
+      "uf": "GO",
+      "supplier": "COMUNIK COMUNICAÇÃO E SERVIÇOS",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 40800.0,
+      "date": "2026-03-10",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3238/2026/8063258.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Eunício Oliveira",
+      "party": "MDB",
+      "uf": "CE",
+      "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 40000.0,
+      "date": "2026-02-03",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8045832.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Antônia Lúcia",
+      "party": "MDB",
+      "uf": "AC",
+      "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 39999.3,
+      "date": "2026-02-09",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8050222"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Heloísa Helena",
+      "party": "REDE",
+      "uf": "RJ",
+      "supplier": "EVAG COMUNICAÇÃO E TECNOLOGIA LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 39559.7,
+      "date": "2026-03-05",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3804/2026/8060861.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Ely Santos",
+      "party": "REPUBLICANOS",
+      "uf": "SP",
+      "supplier": "MB ARTES GRAFICAS",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 39000.0,
+      "date": "2026-03-12",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3489/2026/8065613.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Alberto Fraga",
+      "party": "PL",
+      "uf": "DF",
+      "supplier": "GRAFICA NICODEMOS LTDA-EPP",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 36000.0,
+      "date": "2026-02-05",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1472/2026/8047814.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Professora Marcivania",
+      "party": "PCdoB",
+      "uf": "AP",
+      "supplier": "QUINTELA & SA SERVIÇOS LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 36000.0,
+      "date": "2026-02-03",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2339/2026/8048344.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Professora Marcivania",
+      "party": "PCdoB",
+      "uf": "AP",
+      "supplier": "QUINTELA & SA SERVIÇOS LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 36000.0,
+      "date": "2026-03-02",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2339/2026/8060178.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Antônio Doido",
+      "party": "MDB",
+      "uf": "PA",
+      "supplier": "CAMPUS COMUNICAÇÃO E MARKETING LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35500.0,
+      "date": "2026-02-05",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2026/8066462.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Valmir Assunção",
+      "party": "PT",
+      "uf": "BA",
+      "supplier": "XCOLORUM GRAFICA & COMUNICAÇÃO VISUAL LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35400.0,
+      "date": "2026-01-10",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2265/2026/8038401.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Delegada Katarina",
+      "party": "PSD",
+      "uf": "SE",
+      "supplier": "CONCEITO COMUNICAÇÃO INTEGRADA LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35386.8,
+      "date": "2026-03-18",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3543/2026/8068272.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Wellington Roberto",
+      "party": "PSD",
+      "uf": "PB",
+      "supplier": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-03-10",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1703/2026/8068489.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Eunício Oliveira",
+      "party": "MDB",
+      "uf": "CE",
+      "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-01-05",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1307/2026/8036837.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Acácio Favacho",
+      "party": "MDB",
+      "uf": "AP",
+      "supplier": "MEGA GLOBAL DIGITAL LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-03-28",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2026/8076613.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Dorinaldo Malafaia",
+      "party": "PDT",
+      "uf": "AP",
+      "supplier": "ORBE PRODUTORA & SERVIÇOS LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-02-23",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3576/2026/8053722.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Dorinaldo Malafaia",
+      "party": "PDT",
+      "uf": "AP",
+      "supplier": "ORBE PRODUTORA & SERVIÇOS LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-03-25",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3576/2026/8071959.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Antônio Doido",
+      "party": "MDB",
+      "uf": "PA",
+      "supplier": "CAMPUS COMUNICAÇÃO E MARKETING LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-03-26",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3532/2026/8079724.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Capitão Alden",
+      "party": "PL",
+      "uf": "BA",
+      "supplier": "Bipe Publicidade LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-03-29",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3678/2026/8074150.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Cristiano Furlan",
+      "party": "REDE",
+      "uf": "AP",
+      "supplier": "J L C dos Santos/ Felix Marketing e Comunicação Visual",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 35000.0,
+      "date": "2026-01-21",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3805/2026/8040898.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Giacobo",
+      "party": "PSD",
+      "uf": "PR",
+      "supplier": "GALZON EDITORA GRAFICA LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 34402.6,
+      "date": "2026-02-03",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8045285"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Erika Kokay",
+      "party": "PT",
+      "uf": "DF",
+      "supplier": "ATLANTICA ESTRATÉGIA E COMUNICAÇÃO LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 33830.0,
+      "date": "2026-03-27",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2403/2026/8073271.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Marcos Pollon",
+      "party": "PL",
+      "uf": "MS",
+      "supplier": "GIOVANADOSSANTOSBURNIER",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 33500.0,
+      "date": "2026-03-16",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3539/2026/8066565.pdf"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Giacobo",
+      "party": "PSD",
+      "uf": "PR",
+      "supplier": "CALGAN EDITORA GRAFICA LTDA",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 33472.8,
+      "date": "2026-03-04",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8060119"
+    },
+    {
+      "type": "Documento alto",
+      "severity": "media",
+      "title": "Despesa alta em divulgação da atividade parlamentar.",
+      "deputy": "Dandara",
+      "party": "PT",
+      "uf": "MG",
+      "supplier": "Leonel Alves Lopas 21204209634",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 32500.0,
+      "date": "2026-03-13",
+      "detail": "Valor acima do percentil 99 da categoria ou acima de R$ 10 mil.",
+      "url": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3607/2026/8070331.pdf"
+    },
+    {
+      "type": "Documento repetido",
+      "severity": "media",
+      "title": "Mesmo documento aparece para mais de um parlamentar",
+      "deputy": "Adail Filho, Afonso Motta, Alice Portugal, Allan Garcês",
+      "party": "",
+      "uf": "",
+      "supplier": "CELULAR FUNCIONAL",
+      "category": "TELEFONIA",
+      "value": 5163.3,
+      "date": "",
+      "detail": "45 registros com mesmo fornecedor, documento, data e valor.",
+      "url": ""
+    },
+    {
+      "type": "Documento repetido",
+      "severity": "media",
+      "title": "Mesmo documento aparece para mais de um parlamentar",
+      "deputy": "Aguinaldo Ribeiro, Ana Paula Lima, Dani Cunha, Dr. Luiz Ovando",
+      "party": "",
+      "uf": "",
+      "supplier": "CELULAR FUNCIONAL",
+      "category": "TELEFONIA",
+      "value": 4130.64,
+      "date": "",
+      "detail": "18 registros com mesmo fornecedor, documento, data e valor.",
+      "url": ""
+    },
+    {
+      "type": "Documento repetido",
+      "severity": "media",
+      "title": "Mesmo documento aparece para mais de um parlamentar",
+      "deputy": "Acácio Favacho, Adolfo Viana, Bibo Nunes, Carlos Henrique Gaguim",
+      "party": "",
+      "uf": "",
+      "supplier": "CELULAR FUNCIONAL",
+      "category": "TELEFONIA",
+      "value": 3442.2,
+      "date": "",
+      "detail": "10 registros com mesmo fornecedor, documento, data e valor.",
+      "url": ""
+    },
+    {
+      "type": "Documento repetido",
+      "severity": "media",
+      "title": "Mesmo documento aparece para mais de um parlamentar",
+      "deputy": "Bohn Gass, Carol Dartora, Doutor Luizinho, Luciano Bivar",
+      "party": "",
+      "uf": "",
+      "supplier": "CELULAR FUNCIONAL",
+      "category": "TELEFONIA",
+      "value": 2753.76,
+      "date": "",
+      "detail": "6 registros com mesmo fornecedor, documento, data e valor.",
+      "url": ""
+    },
+    {
+      "type": "Documento repetido",
+      "severity": "media",
+      "title": "Mesmo documento aparece para mais de um parlamentar",
+      "deputy": "Giovani Cherini, Márcio Marinho",
+      "party": "",
+      "uf": "",
+      "supplier": "CELULAR FUNCIONAL",
+      "category": "TELEFONIA",
+      "value": 221.58,
+      "date": "",
+      "detail": "2 registros com mesmo fornecedor, documento, data e valor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Átila Lins",
+      "party": "PSD",
+      "uf": "AM",
+      "supplier": "CTA - CLEITON TAXI AEREO LTDA",
+      "category": "",
+      "value": 137900.0,
+      "date": "",
+      "detail": "77.18% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Olival Marques",
+      "party": "PODE",
+      "uf": "PA",
+      "supplier": "AMAZON STUDIO E PRODUÇOES LTDA",
+      "category": "",
+      "value": 134000.0,
+      "date": "",
+      "detail": "100.0% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Silas Câmara",
+      "party": "REPUBLICANOS",
+      "uf": "AM",
+      "supplier": "AMAZONAVES TAXI AEREO LTDA",
+      "category": "",
+      "value": 133258.0,
+      "date": "",
+      "detail": "72.02% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Eunício Oliveira",
+      "party": "MDB",
+      "uf": "CE",
+      "supplier": "CARNAUBA ASSESSORIA DE COM E PIBLICIDADE",
+      "category": "",
+      "value": 122000.0,
+      "date": "",
+      "detail": "60.12% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Marcelo Crivella",
+      "party": "REPUBLICANOS",
+      "uf": "RJ",
+      "supplier": "S7 Ltda",
+      "category": "",
+      "value": 119000.0,
+      "date": "",
+      "detail": "67.76% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Gabriel Mota",
+      "party": "UNIÃO",
+      "uf": "RR",
+      "supplier": "CK INFO DESIGN E MIDIA SOCIAIS",
+      "category": "",
+      "value": 119000.0,
+      "date": "",
+      "detail": "73.91% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Domingos Neto",
+      "party": "PSD",
+      "uf": "CE",
+      "supplier": "FRAME COMUNICACAO DIGITAL LTDA",
+      "category": "",
+      "value": 112731.63,
+      "date": "",
+      "detail": "70.27% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Fábio Macedo",
+      "party": "PODE",
+      "uf": "MA",
+      "supplier": "IMS SERVIÇOS EIRELI",
+      "category": "",
+      "value": 106000.0,
+      "date": "",
+      "detail": "100.0% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Dorinaldo Malafaia",
+      "party": "PDT",
+      "uf": "AP",
+      "supplier": "ORBE PRODUTORA & SERVIÇOS LTDA",
+      "category": "",
+      "value": 100000.0,
+      "date": "",
+      "detail": "92.06% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Glaustin da Fokus",
+      "party": "PODE",
+      "uf": "GO",
+      "supplier": "COMUNIK COMUNICAÇÃO E SERVIÇOS",
+      "category": "",
+      "value": 96800.0,
+      "date": "",
+      "detail": "71.84% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Sidney Leite",
+      "party": "PSD",
+      "uf": "AM",
+      "supplier": "TAXI AEREO VALE DO MADEIRA",
+      "category": "",
+      "value": 95000.0,
+      "date": "",
+      "detail": "71.6% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Capitão Alden",
+      "party": "PL",
+      "uf": "BA",
+      "supplier": "Bipe Publicidade LTDA",
+      "category": "",
+      "value": 95000.0,
+      "date": "",
+      "detail": "81.32% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Luizianne Lins",
+      "party": "REDE",
+      "uf": "CE",
+      "supplier": "A DE LIMA CARDOSO",
+      "category": "",
+      "value": 93613.8,
+      "date": "",
+      "detail": "69.45% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Erika Kokay",
+      "party": "PT",
+      "uf": "DF",
+      "supplier": "ATLANTICA ESTRATÉGIA E COMUNICAÇÃO LTDA",
+      "category": "",
+      "value": 93430.0,
+      "date": "",
+      "detail": "87.36% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Renilce Nicodemos",
+      "party": "MDB",
+      "uf": "PA",
+      "supplier": "HEISS TAXI AEREO LTDA - EPP",
+      "category": "",
+      "value": 91000.0,
+      "date": "",
+      "detail": "100.0% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Mauricio do Vôlei",
+      "party": "PL",
+      "uf": "MG",
+      "supplier": "JH FILMES E MIDIA DIGITAL LTDA",
+      "category": "",
+      "value": 90000.0,
+      "date": "",
+      "detail": "79.46% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Luiz Carlos Hauly",
+      "party": "PODE",
+      "uf": "PR",
+      "supplier": "SVS COMUNICAÇÃO E MAARKETING DIGITAL LTDA",
+      "category": "",
+      "value": 86997.0,
+      "date": "",
+      "detail": "61.45% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Heloísa Helena",
+      "party": "REDE",
+      "uf": "RJ",
+      "supplier": "EVAG COMUNICAÇÃO E TECNOLOGIA LTDA",
+      "category": "",
+      "value": 86246.4,
+      "date": "",
+      "detail": "69.11% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Antônia Lúcia",
+      "party": "MDB",
+      "uf": "AC",
+      "supplier": "MAXIMA IMPRESSAO RAPIDO, MARKETING DIGITAL & DIVULGACAO LT",
+      "category": "",
+      "value": 84998.5,
+      "date": "",
+      "detail": "64.48% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "severity": "media",
+      "title": "Gasto concentrado em um fornecedor",
+      "deputy": "Josenildo",
+      "party": "PDT",
+      "uf": "AP",
+      "supplier": "CMBC PUBLICIDADE E COMUNICAÇÃO LTDA",
+      "category": "",
+      "value": 84000.0,
+      "date": "",
+      "detail": "60.78% do gasto anual do parlamentar está nesse fornecedor.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Eunício Oliveira",
+      "party": "MDB",
+      "uf": "CE",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 172000.0,
+      "date": "",
+      "detail": "84.76% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Andreia Siqueira",
+      "party": "PSB",
+      "uf": "PA",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 170000.0,
+      "date": "",
+      "detail": "83.54% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Marcelo Crivella",
+      "party": "REPUBLICANOS",
+      "uf": "RJ",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 143500.0,
+      "date": "",
+      "detail": "81.71% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Olival Marques",
+      "party": "PODE",
+      "uf": "PA",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 134000.0,
+      "date": "",
+      "detail": "100.0% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Antônia Lúcia",
+      "party": "MDB",
+      "uf": "AC",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 129998.5,
+      "date": "",
+      "detail": "98.61% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Mário Heringer",
+      "party": "PDT",
+      "uf": "MG",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 129910.0,
+      "date": "",
+      "detail": "93.51% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Alberto Fraga",
+      "party": "PL",
+      "uf": "DF",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 125000.0,
+      "date": "",
+      "detail": "92.2% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Silvia Cristina",
+      "party": "PP",
+      "uf": "RO",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 124150.0,
+      "date": "",
+      "detail": "83.6% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Newton Cardoso Jr",
+      "party": "MDB",
+      "uf": "MG",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 118040.0,
+      "date": "",
+      "detail": "74.26% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Moses Rodrigues",
+      "party": "UNIÃO",
+      "uf": "CE",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 117000.0,
+      "date": "",
+      "detail": "99.75% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Domingos Neto",
+      "party": "PSD",
+      "uf": "CE",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 115731.63,
+      "date": "",
+      "detail": "72.14% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Paulo Pimenta",
+      "party": "PT",
+      "uf": "RS",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 115000.0,
+      "date": "",
+      "detail": "87.11% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Luiz Carlos Hauly",
+      "party": "PODE",
+      "uf": "PR",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 114797.0,
+      "date": "",
+      "detail": "81.09% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Alexandre Guimarães",
+      "party": "MDB",
+      "uf": "TO",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 114150.0,
+      "date": "",
+      "detail": "74.81% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Heloísa Helena",
+      "party": "REDE",
+      "uf": "RJ",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 113446.4,
+      "date": "",
+      "detail": "90.9% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Luiz Gastão",
+      "party": "PSD",
+      "uf": "CE",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 112084.01,
+      "date": "",
+      "detail": "86.4% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Giacobo",
+      "party": "PSD",
+      "uf": "PR",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 110181.3,
+      "date": "",
+      "detail": "72.18% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Cabo Gilberto Silva",
+      "party": "PL",
+      "uf": "PB",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 106900.0,
+      "date": "",
+      "detail": "96.95% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Pastor Gil",
+      "party": "PL",
+      "uf": "MA",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 106500.0,
+      "date": "",
+      "detail": "77.1% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Publicidade dominante",
+      "severity": "media",
+      "title": "Divulgação domina os gastos do parlamentar",
+      "deputy": "Luizianne Lins",
+      "party": "REDE",
+      "uf": "CE",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 106402.2,
+      "date": "",
+      "detail": "78.93% da cota usada no ano foi para divulgação.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Gabriel Mota",
+      "party": "UNIÃO",
+      "uf": "RR",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 92500.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Igor Timo",
+      "party": "PSD",
+      "uf": "MG",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 72850.22,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Baleia Rossi",
+      "party": "MDB",
+      "uf": "SP",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 65425.73,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Franciane Bayer",
+      "party": "REPUBLICANOS",
+      "uf": "RS",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 62255.2,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Albuquerque",
+      "party": "REPUBLICANOS",
+      "uf": "RR",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 60744.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Pedro Paulo",
+      "party": "PSD",
+      "uf": "RJ",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 58539.2,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Augusto Coutinho",
+      "party": "REPUBLICANOS",
+      "uf": "PE",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 57295.96,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Vitor Lippi",
+      "party": "PSD",
+      "uf": "SP",
+      "supplier": "",
+      "category": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "value": 56552.26,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Eli Borges",
+      "party": "REPUBLICANOS",
+      "uf": "TO",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 35477.17,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Welter",
+      "party": "PT",
+      "uf": "PR",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 34524.1,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Carlos Veras",
+      "party": "PT",
+      "uf": "PE",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 34282.95,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Dilvanda Faro",
+      "party": "PT",
+      "uf": "PA",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 33998.14,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Luiz Couto",
+      "party": "PT",
+      "uf": "PB",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 32868.55,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Delegada Ione",
+      "party": "AVANTE",
+      "uf": "MG",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 32525.4,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Andreia Siqueira",
+      "party": "PSB",
+      "uf": "PA",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 32002.25,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Rodrigo da Zaeli",
+      "party": "PL",
+      "uf": "MT",
+      "supplier": "",
+      "category": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "value": 31439.5,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "LIDERANÇA DO PT",
+      "party": "Sem informação",
+      "uf": "NA",
+      "supplier": "",
+      "category": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "value": 52455.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Lula da Fonte",
+      "party": "PP",
+      "uf": "PE",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 75881.6,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Claudio Cajado",
+      "party": "PP",
+      "uf": "BA",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 56910.8,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Gustinho Ribeiro",
+      "party": "PP",
+      "uf": "SE",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 56700.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Elmar Nascimento",
+      "party": "UNIÃO",
+      "uf": "BA",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 56100.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Fabio Schiochet",
+      "party": "UNIÃO",
+      "uf": "SC",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 56000.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Bacelar",
+      "party": "PV",
+      "uf": "BA",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 55800.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Raimundo Costa",
+      "party": "PSD",
+      "uf": "BA",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 55500.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Odair Cunha",
+      "party": "PT",
+      "uf": "MG",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "value": 54900.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Eunício Oliveira",
+      "party": "MDB",
+      "uf": "CE",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 172000.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Andreia Siqueira",
+      "party": "PSB",
+      "uf": "PA",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 170000.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Marcelo Crivella",
+      "party": "REPUBLICANOS",
+      "uf": "RJ",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 143500.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Olival Marques",
+      "party": "PODE",
+      "uf": "PA",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 134000.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Antônia Lúcia",
+      "party": "MDB",
+      "uf": "AC",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 129998.5,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Mário Heringer",
+      "party": "PDT",
+      "uf": "MG",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 129910.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Alberto Fraga",
+      "party": "PL",
+      "uf": "DF",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 125000.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Silvia Cristina",
+      "party": "PP",
+      "uf": "RO",
+      "supplier": "",
+      "category": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "value": 124150.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Filipe Barros",
+      "party": "PL",
+      "uf": "PR",
+      "supplier": "",
+      "category": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+      "value": 41973.36,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Marx Beltrão",
+      "party": "PP",
+      "uf": "AL",
+      "supplier": "",
+      "category": "PASSAGEM AÉREA - RPA",
+      "value": 53052.95,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Diego Garcia",
+      "party": "REPUBLICANOS",
+      "uf": "PR",
+      "supplier": "",
+      "category": "PASSAGEM AÉREA - REEMBOLSO",
+      "value": 70621.57,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Átila Lins",
+      "party": "PSD",
+      "uf": "AM",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "value": 148400.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Silas Câmara",
+      "party": "REPUBLICANOS",
+      "uf": "AM",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "value": 133258.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "severity": "baixa",
+      "title": "Parlamentar bem acima dos pares na categoria",
+      "deputy": "Delegado Éder Mauro",
+      "party": "PL",
+      "uf": "PA",
+      "supplier": "",
+      "category": "LOCAÇÃO OU FRETAMENTO DE EMBARCAÇÕES",
+      "value": 42000.0,
+      "date": "",
+      "detail": "Total acima de mediana + 3*MAD entre parlamentares da mesma categoria.",
+      "url": ""
+    }
+  ],
+  "alert_counts": [
+    {
+      "type": "Documento alto",
+      "count": 40
+    },
+    {
+      "type": "Fora da curva na categoria",
+      "count": 39
+    },
+    {
+      "type": "Concentração em fornecedor",
+      "count": 20
+    },
+    {
+      "type": "Publicidade dominante",
+      "count": 20
+    },
+    {
+      "type": "Documento repetido",
+      "count": 5
+    }
+  ]
+}

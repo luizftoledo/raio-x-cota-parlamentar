@@ -10,6 +10,8 @@ import json
 import math
 import re
 import statistics
+import time
+import urllib.error
 import urllib.request
 import zipfile
 from collections import Counter, defaultdict
@@ -127,8 +129,27 @@ def top_from_totals(totals, counts=None, limit=20, key_names=None, extra=None):
 def fetch_rows(year: int) -> tuple[list[dict], str, int]:
     url = SOURCE_URL.format(year=year)
     request = urllib.request.Request(url, headers={"User-Agent": "raio-x-cota-parlamentar/1.0"})
-    with urllib.request.urlopen(request, timeout=60) as response:
-        content = response.read()
+    attempts = 5
+    last_error: Exception | None = None
+    for attempt in range(1, attempts + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=120) as response:
+                content = response.read()
+            break
+        except (urllib.error.URLError, TimeoutError) as exc:
+            last_error = exc
+            reason = getattr(exc, "reason", exc)
+            if attempt == attempts:
+                raise RuntimeError(
+                    f"falha ao baixar dados da Câmara após {attempts} tentativas: {reason}"
+                ) from exc
+            wait = 10 * 2 ** (attempt - 1)
+            print(
+                f"[ceap] tentativa {attempt}/{attempts} falhou ({reason}); "
+                f"nova tentativa em {wait}s",
+                flush=True,
+            )
+            time.sleep(wait)
 
     with zipfile.ZipFile(io.BytesIO(content)) as zipped:
         csv_name = [name for name in zipped.namelist() if name.lower().endswith(".csv")][0]
